@@ -1,0 +1,3292 @@
+1
+00:00:01,990 --> 00:00:05,470
+الحمد لله و الصلاة و السلام على رسول الله و على آله و صحبه أجمعين
+
+2
+00:00:05,470 --> 00:00:07,530
+السلام عليكم و رحمة الله تعلى و بركاته
+
+3
+00:00:08,029 --> 00:00:12,000
+So we are now moving into the second section of the study
+
+4
+00:00:12,030 --> 00:00:14,860
+and that is coherence within passages of the Qur'ān.
+
+5
+00:00:14,860 --> 00:00:18,170
+And I use the word passage, sort of an invention of my own.
+
+6
+00:00:18,180 --> 00:00:21,590
+The Qur'ān clearly does not have paragraphs or indents
+
+7
+00:00:21,600 --> 00:00:24,040
+where you can tell one paragraph ended and
+
+8
+00:00:24,030 --> 00:00:25,980
+the next one began and the next one began it's not like that.
+
+9
+00:00:25,980 --> 00:00:27,860
+It's just all the Ayāt are bunched together
+
+10
+00:00:28,060 --> 00:00:30,550
+in one sūrāh. The only distinguishable
+
+11
+00:00:30,740 --> 00:00:34,210
+units of the Qur'ān are sūrah and āyah, right?
+
+12
+00:00:34,210 --> 00:00:36,760
+Those are the only units of the Qur'ān that we know about.
+
+13
+00:00:37,140 --> 00:00:39,250
+Regardless of that,
+
+14
+00:00:39,260 --> 00:00:43,640
+what I want you to know is, Inshāllāh after this this discussion,
+
+15
+00:00:43,640 --> 00:00:46,000
+when we get into the structure of sūrahs themselves,
+
+16
+00:00:46,010 --> 00:00:48,940
+then I'll say some things about the word sūrah and
+
+17
+00:00:48,950 --> 00:00:51,310
+the word āyah and how they correspond with each other.
+
+18
+00:00:51,310 --> 00:00:54,630
+It'll be the next unit, but before we get there, right now
+
+19
+00:00:54,630 --> 00:00:56,250
+I want to define what "passage" means.
+
+20
+00:00:56,440 --> 00:00:59,310
+It's very distinct that sometimes there's a group of
+
+21
+00:00:59,310 --> 00:01:01,560
+āyāt that are dealing with a similar subject.
+
+22
+00:01:02,240 --> 00:01:05,260
+Okay, you can tell. Okay, these are āyāt about Musa and Fir'own.
+
+23
+00:01:05,940 --> 00:01:08,930
+And then the subject is going to switch to the Ahkirah or something like that,
+
+24
+00:01:08,940 --> 00:01:12,530
+or these āyāt are about different things Allāh created.
+
+25
+00:01:12,540 --> 00:01:15,360
+And then there's gonna be a set of āyāt about the afterlife.
+
+26
+00:01:15,370 --> 00:01:18,360
+You could clearly tell there's a change of subject and
+
+27
+00:01:18,360 --> 00:01:21,840
+the next group of āyāt are one distinct topic,
+
+28
+00:01:21,850 --> 00:01:24,737
+right? Or for example, when you have وَٱلْعَـٰدِيَـٰتِ ضَبْحًۭا
+
+29
+00:01:24,762 --> 00:01:25,822
+فَٱلْمُورِيَـٰتِ قَدْحًۭا
+
+30
+00:01:25,847 --> 00:01:27,224
+فَٱلْمُغِيرَٰتِ صُبْحًۭا
+
+31
+00:01:27,234 --> 00:01:28,160
+فَأَثَرْنَ بِهِۦ نَقْعًۭا
+
+32
+00:01:28,234 --> 00:01:29,680
+فَوَسَطْنَ بِهِۦ جَمْعًا
+
+33
+00:01:29,740 --> 00:01:35,010
+Those are one distinct subject. (فَا، فَا، فَا، فَا). This then this, then this, then this, then this.
+
+34
+00:01:35,020 --> 00:01:37,770
+They're one distinct subject. That's what I'm calling a 'passage'.
+
+35
+00:01:37,780 --> 00:01:39,530
+You can use different words for it.
+
+36
+00:01:39,540 --> 00:01:43,150
+Orientalists, and other Western academics use words like 'section'.
+
+37
+00:01:43,740 --> 00:01:46,360
+They say section one, section two, section three and then subsection.
+
+38
+00:01:46,370 --> 00:01:47,880
+I've used that in the past also.
+
+39
+00:01:47,950 --> 00:01:51,150
+But for the purposes of ease, I'm just calling them 'passages'. Now
+
+40
+00:01:51,740 --> 00:01:55,220
+there are two kinds of studies we're going to do when we study the nazm (Coherence)
+
+41
+00:01:55,220 --> 00:01:57,760
+the structure and the organization of passages.
+
+42
+00:01:57,770 --> 00:02:00,190
+We're talking about a distinct set of āyāt.
+
+43
+00:02:00,200 --> 00:02:03,200
+Basically, what I'm saying is more than an āyah, but less than a sūrah.
+
+44
+00:02:03,210 --> 00:02:04,850
+That's what we're talking about right now. Okay?
+
+45
+00:02:05,540 --> 00:02:08,690
+And when we do that, there's two ways of studying it.
+
+46
+00:02:08,699 --> 00:02:11,360
+One is, how is an argument progressing?
+
+47
+00:02:11,840 --> 00:02:16,900
+How is it going from--How is the point being made from, the first of these āyat
+
+48
+00:02:16,900 --> 00:02:19,010
+to the second to the third to the fourth to the fifth?
+
+49
+00:02:19,020 --> 00:02:22,510
+And is it leading to a conclusion? Are they escalating in something?
+
+50
+00:02:22,520 --> 00:02:24,580
+Are they reaching a conclusion towards something?
+
+51
+00:02:24,580 --> 00:02:28,060
+Are they building upon an idea that was previously built or stated?
+
+52
+00:02:28,440 --> 00:02:31,190
+Some of that you already saw when we were discussing
+
+53
+00:02:31,190 --> 00:02:33,940
+āyāt that were unrelated or looked unrelated.
+
+54
+00:02:33,950 --> 00:02:36,660
+When I was translating the passage that led up to them,
+
+55
+00:02:36,660 --> 00:02:39,320
+you could see there's a logical progression happening.
+
+56
+00:02:39,330 --> 00:02:41,070
+So that was kind of accidentally
+
+57
+00:02:41,080 --> 00:02:44,330
+we're kind of already dealing with the development of an argument.
+
+58
+00:02:44,340 --> 00:02:47,870
+But there's another component to this, and that's a little bit more complicated.
+
+59
+00:02:47,870 --> 00:02:50,660
+And that's probably the hardest challenge I have with you guys today,
+
+60
+00:02:50,940 --> 00:02:53,960
+is to describe the structural view of passages.
+
+61
+00:02:54,340 --> 00:02:55,620
+That'll be the second study.
+
+62
+00:02:55,660 --> 00:02:58,860
+So for each of them, the first one I call it "developing an argument".
+
+63
+00:02:59,240 --> 00:03:02,660
+We're going to do a number of case studies of how arguments are developed
+
+64
+00:03:03,040 --> 00:03:06,240
+through a course of a set of āyāt. How an idea is built upon.
+
+65
+00:03:06,250 --> 00:03:08,860
+Okay? So we're gonna look at a few passages, a few case studies of that.
+
+66
+00:03:09,240 --> 00:03:10,600
+Then we're going to take a step back and
+
+67
+00:03:10,600 --> 00:03:12,660
+look at a structural view of certain passages.
+
+68
+00:03:13,040 --> 00:03:16,820
+How are things organized from a sometimes looks like a symmetrical point of view.
+
+69
+00:03:16,820 --> 00:03:19,740
+Some sort of patterns are established, some connections are made,
+
+70
+00:03:19,750 --> 00:03:21,350
+and that sounds a bit complicated.
+
+71
+00:03:21,360 --> 00:03:22,300
+But, Inshāllāh ta'āla
+
+72
+00:03:22,300 --> 00:03:25,200
+my job is to try to make that easy to understand and for you to be able
+
+73
+00:03:25,200 --> 00:03:26,880
+to see some of the more sophisticated level
+
+74
+00:03:26,880 --> 00:03:29,450
+of organization in the passages of the Qur'ān.
+
+75
+00:03:29,640 --> 00:03:32,210
+So let's begin first and foremost with a set
+
+76
+00:03:32,210 --> 00:03:34,050
+of āyāt that belonged to Sūrat al-Baqara.
+
+77
+00:03:34,140 --> 00:03:37,720
+I'm looking at āyāhs number 91-93.
+
+78
+00:03:37,730 --> 00:03:41,500
+These, of course, are part of the discourse on the Israelites.
+
+79
+00:03:41,510 --> 00:03:46,180
+So Sūrat al-Baqara 91-93, and Allāh is criticizing the Israelites.
+
+80
+00:03:46,180 --> 00:03:50,214
+And here's the criticism
+وَإِذَا قِيلَ لَهُمْ ءَامِنُوا۟ بِمَآ أَنزَلَ ٱللَّهُ
+
+81
+00:03:50,240 --> 00:03:54,014
+When it is said to them, believe in what Allah sent down.
+
+82
+00:03:54,040 --> 00:03:56,660
+قَالُوا۟ نُؤْمِنُ بِمَآ أُنزِلَ عَلَيْنَا
+
+83
+00:03:56,740 --> 00:04:01,380
+They say, basically, they say we already believe in what was sent to us.
+
+84
+00:04:01,380 --> 00:04:04,750
+So they are told 'Believe in Qur'ān', They say, 'No thanks. We already have the Tawrāt.'
+
+85
+00:04:05,440 --> 00:04:06,060
+Essentially.
+
+86
+00:04:06,540 --> 00:04:08,155
+وَيَكْفُرُونَ بِمَا وَرَآءَهُ
+
+87
+00:04:08,165 --> 00:04:09,470
+While the fact of the matter is,
+
+88
+00:04:09,470 --> 00:04:11,760
+they actually disbelieve in what they have behind them.
+
+89
+00:04:12,440 --> 00:04:14,890
+Allāh is saying, not only do you not believe in the Qur'ān,
+
+90
+00:04:14,900 --> 00:04:17,750
+I am claiming you don't even believe in Tawrāt.
+
+91
+00:04:18,440 --> 00:04:22,193
+وَيَكْفُرُونَ بِمَا وَرَآءَهُۥ وَهُوَ ٱلْحَقُّ مُصَدِّقًۭا لِّمَا مَعَهُمْ
+
+92
+00:04:22,303 --> 00:04:24,150
+And it is the truth,
+
+93
+00:04:24,150 --> 00:04:27,350
+meaning Qur'ān is the truth, confirming what they have with them.
+
+94
+00:04:28,140 --> 00:04:32,050
+Notice the language. It's the truth confirming what they have with them.
+
+95
+00:04:32,060 --> 00:04:34,430
+Not the truth confirming what they believe
+
+96
+00:04:34,440 --> 00:04:37,350
+because they don't believe in it. Allāh is criticizing
+
+97
+00:04:37,350 --> 00:04:38,760
+you don't even believe in your own Tawrāt
+
+98
+00:04:39,440 --> 00:04:43,660
+as expected. But what you have in your possession, Qur'ān confirms.
+
+99
+00:04:44,740 --> 00:04:47,533
+قُلْ فَلِمَ تَقْتُلُونَ أَنۢبِيَآءَ ٱللَّهِ
+
+100
+00:04:47,663 --> 00:04:49,673
+Say or basically ask then
+
+101
+00:04:49,670 --> 00:04:52,013
+why then did you kill or did you engage in
+
+102
+00:04:52,050 --> 00:04:55,550
+the killing of prophets of Allah [مِن قَبْلُ] from so long ago
+
+103
+00:04:55,560 --> 00:04:58,890
+إِن كُنتُم مُّؤْمِنِينَ
+if in fact, you are all believers? Remember
+
+104
+00:04:58,890 --> 00:05:03,850
+I told you maybe in not recorded portion of this discussion. I told you that,
+
+105
+00:05:04,340 --> 00:05:08,150
+they actually killed prophets and justified it in their books.
+
+106
+00:05:09,440 --> 00:05:12,510
+They would describe prophets in many cases ars very despicable people,
+
+107
+00:05:12,510 --> 00:05:13,480
+very bad people
+
+108
+00:05:13,820 --> 00:05:14,960
+that should be disobeyed.
+
+109
+00:05:15,740 --> 00:05:18,230
+And that's why the Qur'ān even adds the qualifier:
+
+110
+00:05:18,240 --> 00:05:20,780
+You killed prophets without any right.
+
+111
+00:05:20,890 --> 00:05:22,550
+(بِغَيْرِ حَقٍّ) or (بِغَيْرِ الحَقٍّۢ).
+
+112
+00:05:22,940 --> 00:05:25,760
+You don't like, Muneer pointed it out, you don't have to (بِغَيْرِ الحَقٍّۢ).
+
+113
+00:05:25,770 --> 00:05:27,360
+Killing prophets is bad enough.
+
+114
+00:05:27,370 --> 00:05:29,560
+What does it mean to say you killed prophets without any right?
+
+115
+00:05:30,640 --> 00:05:32,160
+You had no right to kill prophets.
+
+116
+00:05:32,160 --> 00:05:34,860
+Well, even if you didn't say without any right, it's still wrong.
+
+117
+00:05:35,940 --> 00:05:39,750
+So the the addition without any right is because they claim they did have right.
+
+118
+00:05:40,640 --> 00:05:44,480
+They actually justified it. And Allāh says: No, your justifications are false.
+
+119
+00:05:44,490 --> 00:05:47,710
+Anyway, so here Allāh asked, Why did you kill the prophets of Allāh
+
+120
+00:05:47,690 --> 00:05:50,980
+in fact, if you're believers?
+وَلَقَدْ جَآءَكُم مُّوسَىٰ بِٱلْبَيِّنَـٰتِ
+
+121
+00:05:50,990 --> 00:05:53,320
+And Musa certainly came to you with clear proofs.
+
+122
+00:05:53,330 --> 00:05:55,114
+ثُمَّ ٱتَّخَذْتُمُ ٱلْعِجْلَ مِنۢ بَعْدِهِ
+
+123
+00:05:55,139 --> 00:05:59,060
+and you there after, even after he came to you with the clearest evidences
+
+124
+00:05:59,340 --> 00:06:01,350
+you held on to the calf for worship,
+
+125
+00:06:01,540 --> 00:06:04,870
+even after him, وَأَنتُمْ ظَـٰلِمُونَ,
+while you were doing wrong.
+
+126
+00:06:04,880 --> 00:06:07,990
+وَإِذْ أَخَذْنَا مِيثَـٰقَكُمْ وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ
+
+127
+00:06:08,050 --> 00:06:10,210
+When We took the covenant from you and
+
+128
+00:06:10,210 --> 00:06:12,350
+We raised the mountain of at-Tūr above you
+
+129
+00:06:12,481 --> 00:06:13,890
+خُذُوا۟ مَآ ءَاتَيْنَـٰكُم بِقُوَّةٍۢ
+
+130
+00:06:14,060 --> 00:06:17,050
+hold on to what We have given you with great might.
+
+131
+00:06:17,140 --> 00:06:18,920
+وَٱسْمَعُوا۟
+and listen
+
+132
+00:06:18,980 --> 00:06:23,860
+قَالُوا۟ سَمِعْنَا وَعَصَيْنَا
+They said we hear and we disobey
+
+133
+00:06:24,240 --> 00:06:26,626
+وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ
+
+134
+00:06:26,750 --> 00:06:33,326
+And thus the the the love of the calf was poured and gulped down their hearts.
+
+135
+00:06:33,390 --> 00:06:36,571
+Made to gulp down their hearts because of their disbelief.
+
+136
+00:06:36,596 --> 00:06:39,460
+قُلْ بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَـٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
+
+137
+00:06:39,530 --> 00:06:42,800
+Tell them how terrible your faith-this faith of yours,
+
+138
+00:06:42,810 --> 00:06:46,160
+what terrible things it compels you to do if in fact you are believers.
+
+139
+00:06:46,640 --> 00:06:50,080
+This is the passage, I did not deliberately, as I was translating it
+
+140
+00:06:50,090 --> 00:06:53,960
+I deliberately tried to not highlight how the argument is progressing.
+
+141
+00:06:54,340 --> 00:06:57,250
+Because I want to now highlight to you how the argument is progressing.
+
+142
+00:06:57,700 --> 00:06:59,430
+The first issue brought was
+
+143
+00:06:59,550 --> 00:07:01,560
+when you're told accept the Qur'ān,
+
+144
+00:07:02,340 --> 00:07:03,710
+they say "No".
+
+145
+00:07:03,720 --> 00:07:05,730
+Instead of having reverence for the Qur'ān,
+
+146
+00:07:05,740 --> 00:07:07,590
+we already have reverence for something we have.
+
+147
+00:07:07,600 --> 00:07:08,250
+Which is what?
+
+148
+00:07:08,740 --> 00:07:11,040
+Tawrāt, and Allāh says: No, you don't.
+
+149
+00:07:11,050 --> 00:07:12,630
+Even though if you did,
+
+150
+00:07:12,640 --> 00:07:16,170
+you would see that the Qur'ān is confirming what truth you have left in the Tawrāt.
+
+151
+00:07:17,140 --> 00:07:19,590
+And if you are so regarding of Tawrāt,
+
+152
+00:07:19,650 --> 00:07:22,200
+how come you killed the prophets who taught the Tawrāt?
+
+153
+00:07:24,040 --> 00:07:26,680
+I--my--Allāh's proof that you don't believe in the Tawrāt
+
+154
+00:07:26,680 --> 00:07:28,920
+is that you justified the killing of the prophets
+
+155
+00:07:28,920 --> 00:07:31,460
+who actually came to reinforce the teachings of the  Tawrāt.
+
+156
+00:07:31,470 --> 00:07:33,183
+فَلِمَ تَقْتُلُونَ أَنۢبِيَآءَ ٱللَّهِ
+
+157
+00:07:33,207 --> 00:07:34,330
+إِن كُنتُم مُّؤْمِنِينَ
+
+158
+00:07:34,615 --> 00:07:39,300
+Taurah--You know, the prophets of Banī Isrā'īl would come, not with new revelation.
+
+159
+00:07:39,310 --> 00:07:42,150
+They would come to restore the Tawrāt given to Musa.
+
+160
+00:07:43,240 --> 00:07:46,170
+And teach it again. And they would hate that and kill them, and corrupt it again.
+
+161
+00:07:46,170 --> 00:07:49,060
+They'd teach it again, they killed them and corrupt them again.
+
+162
+00:07:49,440 --> 00:07:52,660
+So Allāh says: Fine, you had no respect for the prophets.
+
+163
+00:07:52,660 --> 00:07:56,090
+But at least the prophet that got you out of the clutches of the Pharaoh.
+
+164
+00:07:56,100 --> 00:07:59,060
+The ones you even-- the إضافة (annexation) they make. We say: كتاب الله (Book of Allāh).
+
+165
+00:07:59,840 --> 00:08:00,860
+We say كتاب الله (book of Allāh)
+
+166
+00:08:01,540 --> 00:08:03,250
+You know what they say?
+"Tawrāt Mouche"
+
+167
+00:08:04,340 --> 00:08:05,115
+"Tawrat Mouche"
+
+168
+00:08:05,140 --> 00:08:11,260
+What does that mean? The Torah of. So they have reverence at least for Musa.
+
+169
+00:08:12,040 --> 00:08:14,150
+Allāh then progresses the argument further.
+
+170
+00:08:14,150 --> 00:08:15,970
+You told Me you have reverence for Tawrāt.
+
+171
+00:08:16,150 --> 00:08:19,560
+I'm telling you, you don't because you even killed the prophets who taught the Tawrāt.
+
+172
+00:08:20,040 --> 00:08:22,650
+Forget the other prophets. You didn't even spare Musa.
+
+173
+00:08:23,340 --> 00:08:25,460
+وَلَقَدْ جَآءَكُم مُّوسَىٰ بِٱلْبَيِّنَـٰتِ
+
+174
+00:08:25,500 --> 00:08:27,690
+Even Musa had come to you with the clearest of proofs .
+
+175
+00:08:27,700 --> 00:08:30,390
+And what did you do with Musa who had given the Tawrāt to you?
+
+176
+00:08:30,400 --> 00:08:32,159
+The original giver of the Tawrāt to you?
+
+177
+00:08:32,740 --> 00:08:34,559
+You started worshiping a calf
+
+178
+00:08:35,440 --> 00:08:36,659
+even in his presence.
+
+179
+00:08:37,520 --> 00:08:40,049
+مِنۢ بَعْدِهِۦ
+And you were doing wrong in his face
+
+180
+00:08:40,440 --> 00:08:41,460
+arguing against him.
+
+181
+00:08:42,640 --> 00:08:44,950
+And so now we've seen, okay
+
+182
+00:08:45,040 --> 00:08:48,190
+no regard for the Tawrāt, no regard for the teachers of Tawrāt
+
+183
+00:08:48,190 --> 00:08:51,830
+historically and no regard for the even their their political hero,
+
+184
+00:08:51,830 --> 00:08:54,950
+their prophet, the one they identified themselves with; Musa (عليه السلام)
+
+185
+00:08:54,980 --> 00:08:56,160
+you didn't even regard him.
+
+186
+00:08:57,140 --> 00:08:58,470
+But the argument is not done.
+
+187
+00:08:58,630 --> 00:09:01,850
+Let's talk about how much regard you have even for Allāh Himself.
+
+188
+00:09:02,440 --> 00:09:04,330
+Because if you go-- keep going higher up above
+
+189
+00:09:04,330 --> 00:09:06,360
+the prophets for them is Musa above Musa is who?
+
+190
+00:09:07,040 --> 00:09:08,371
+Allāh 'azwa jal
+
+191
+00:09:08,396 --> 00:09:11,040
+So Allāh says
+وَإِذْ أَخَذْنَا مِيثَـٰقَكُمْ
+
+192
+00:09:11,440 --> 00:09:15,495
+when We ourselves took the covenant from you.
+وَرَفَعْنَا فَوْقَكُمُ ٱلطُّورَ
+
+193
+00:09:15,520 --> 00:09:18,550
+We elevated the mountain above your heads.
+
+194
+00:09:19,640 --> 00:09:21,140
+Allah Himself told you
+
+195
+00:09:21,140 --> 00:09:22,412
+خُذُوا۟ مَآ ءَاتَيْنَـٰكُم
+
+196
+00:09:22,437 --> 00:09:24,552
+Hold on to what We've given you with great might.
+
+197
+00:09:24,650 --> 00:09:28,332
+You even turned to God directly and said
+سَمِعْنَا وَعَصَيْنَا
+
+198
+00:09:28,862 --> 00:09:30,250
+We hear and we disobey.
+
+199
+00:09:31,540 --> 00:09:35,010
+This is what you're, you say thanks we already believe.
+
+200
+00:09:35,010 --> 00:09:37,975
+This is where the conversation started and Allāh is saying: Oh,
+
+201
+00:09:38,000 --> 00:09:39,160
+this is how you believe?
+
+202
+00:09:40,440 --> 00:09:42,180
+What did you do with prophets? What did you Musa?
+
+203
+00:09:42,205 --> 00:09:43,585
+What did you do with Allāh Himself?
+
+204
+00:09:44,640 --> 00:09:46,050
+When you spoke with the Allāh directly?
+
+205
+00:09:46,830 --> 00:09:51,820
+Then
+وَأُشْرِبُوا۟ فِى قُلُوبِهِمُ ٱلْعِجْلَ بِكُفْرِهِمْ ۚ
+
+206
+00:09:51,950 --> 00:09:55,920
+[قُلْ] Tell them after all this, because the conversation started with
+
+207
+00:09:56,000 --> 00:10:00,060
+نُؤْمِنُ بِمَآ أُنزِلَ عَلَيْنَا
+we believe in what was given to us
+
+208
+00:10:00,640 --> 00:10:04,560
+by the end Allāh says, what a terrible thing this faith of yours makes you do
+
+209
+00:10:04,940 --> 00:10:08,810
+what horrible things it tells you to do.
+إِن كُنتُم مُّؤْمِنِينَ
+If in fact, that is faith.
+
+210
+00:10:08,820 --> 00:10:13,310
+If you'd like to call that faith, it's been telling you to do some pretty wild stuff.
+
+211
+00:10:13,320 --> 00:10:17,860
+Killing prophets, disregarding Musa, worshiping a calf, defying Allāh directly.
+
+212
+00:10:18,640 --> 00:10:21,880
+Wow, mā shāʾ Allāh, some good Imān (faith) you got there, essentially
+
+213
+00:10:21,960 --> 00:10:24,660
+بِئْسَمَا يَأْمُرُكُم بِهِۦٓ إِيمَـٰنُكُمْ إِن كُنتُم مُّؤْمِنِينَ
+
+214
+00:10:24,799 --> 00:10:28,360
+You see how they're smart answer has been crushed
+
+215
+00:10:28,840 --> 00:10:30,620
+one after the other, after the other,
+
+216
+00:10:30,620 --> 00:10:33,850
+with a progression that gets worse and worse and worse and worse.
+
+217
+00:10:33,860 --> 00:10:37,395
+Okay is that one clear to everybody? Okay so we'll quickly move along Inshallah
+
+218
+00:10:37,420 --> 00:10:40,060
+this is a brief one, yet an interesting one.
+
+219
+00:10:40,540 --> 00:10:44,400
+And it's how Ibrahim (عليه السلام) is used as part of progressing an argument.
+
+220
+00:10:44,410 --> 00:10:51,680
+We're looking at Surāt al-Imrān, and we're looking at āyāt number 64 to 67.
+
+221
+00:10:51,690 --> 00:10:53,160
+قُلْ يَـٰٓأَهْلَ ٱلْكِتَـٰبِ
+
+222
+00:10:53,740 --> 00:10:57,360
+Say people of the book
+تَعَالَوْا۟ إِلَىٰ كَلِمَةٍۢ
+
+223
+00:10:57,840 --> 00:10:59,470
+come towards a word
+
+224
+00:10:59,480 --> 00:11:03,860
+سَوَآءٍۭ بَيْنَنَا وَبَيْنَكُمْ
+that is in common between you and ourselves.
+
+225
+00:11:03,870 --> 00:11:06,070
+Why don't you come and let's discuss something
+
+226
+00:11:06,070 --> 00:11:09,810
+you-- a teaching that both you and ourselves have in common.
+
+227
+00:11:09,820 --> 00:11:12,760
+Muslims are told to give this invitation to Jews and Christians.
+
+228
+00:11:12,770 --> 00:11:17,160
+أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ
+that we're not gonna worship anyone except God. except Allāh.
+
+229
+00:11:17,440 --> 00:11:18,714
+وَلَا نُشْرِكَ بِهِۦ شَيْـًۭٔا
+
+230
+00:11:18,770 --> 00:11:21,360
+And we will not make any partners with Him in any way, shape or form.
+
+231
+00:11:21,540 --> 00:11:24,290
+وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًۭا مِّن دُونِ ٱللَّهِ
+
+232
+00:11:24,330 --> 00:11:26,070
+And we will not take some of us
+
+233
+00:11:26,540 --> 00:11:29,260
+as opposed to others as gods besides Allāh.
+
+234
+00:11:30,640 --> 00:11:32,984
+فَإِن تَوَلَّوْا۟
+And if they still turn away
+
+235
+00:11:33,009 --> 00:11:36,650
+فَقُولُوا۟ ٱشْهَدُوا۟ بِأَنَّا مُسْلِمُونَ
+then as they turn away, say to them,
+
+236
+00:11:36,650 --> 00:11:38,650
+At least testify that we're Muslims.
+
+237
+00:11:39,240 --> 00:11:41,760
+At least say with your mouth, You're not Muslim and we are.
+
+238
+00:11:42,540 --> 00:11:43,760
+Which they would happily say.
+
+239
+00:11:44,240 --> 00:11:45,350
+They'll say, Yeah, fine.
+
+240
+00:11:45,740 --> 00:11:46,930
+شَهِدْنا أَنْتُمْ مُسْلِمُونَ
+
+241
+00:11:47,005 --> 00:11:51,100
+Well, we testify you are Muslims. Muslims to them are deviant and wrong anyway.
+
+242
+00:11:51,940 --> 00:11:54,960
+What does Allāh say next? First, He said, Come to a common word.
+
+243
+00:11:55,940 --> 00:11:59,290
+And what was the common word? Worship the same God, don't do shirk,
+
+244
+00:11:59,300 --> 00:12:00,770
+don't make false gods, as you know,
+
+245
+00:12:00,770 --> 00:12:03,260
+deified, popeified kind of entities, things like that.
+
+246
+00:12:04,230 --> 00:12:07,160
+Then He says:
+يَـٰٓأَهْلَ ٱلْكِتَـٰبِ لِمَ تُحَآجُّونَ فِىٓ إِبْرَٰهِيمَ
+
+247
+00:12:08,140 --> 00:12:10,750
+People of the book, why are you even arguing about Abraham?
+
+248
+00:12:11,240 --> 00:12:13,880
+When we say we have something in common with the Jews and the Christians
+
+249
+00:12:13,880 --> 00:12:17,000
+we call it the religion of Abraham, right? The Abrahamic faiths.
+
+250
+00:12:17,030 --> 00:12:19,260
+That's the term that you may have heard. Allāh then
+
+251
+00:12:19,260 --> 00:12:21,510
+builds on that idea and says, People of the book
+
+252
+00:12:21,520 --> 00:12:24,620
+why are you even making arguments about Ibrahim and claiming him?
+
+253
+00:12:24,698 --> 00:12:27,860
+وَمَآ أُنزِلَتِ ٱلتَّوْرَىٰةُ وَٱلْإِنجِيلُ إِلَّا مِنۢ بَعْدِهِۦٓ
+
+254
+00:12:28,540 --> 00:12:30,360
+Tawrāt and Injil was only given after him.
+
+255
+00:12:31,740 --> 00:12:33,150
+That's that's a later thing.
+
+256
+00:12:33,840 --> 00:12:38,429
+Ibrahim (عليه السلام), if you were to look at his legacy, all it amounts to is:
+
+257
+00:12:38,454 --> 00:12:45,521
+أَلَّا نَعْبُدَ إِلَّا ٱللَّهَ وَلَا نُشْرِكَ بِهِۦ شَيْـًۭٔا وَلَا يَتَّخِذَ بَعْضُنَا بَعْضًا أَرْبَابًۭا مِّن دُونِ ٱللَّهِ ۚ
+
+258
+00:12:45,840 --> 00:12:48,080
+The common word that we started with
+
+259
+00:12:48,080 --> 00:12:50,360
+no one better represents that common word than who?
+
+260
+00:12:50,840 --> 00:12:53,180
+Ibrahim  (عليه السلام). So why are you even arguing about Ibrahim?
+
+261
+00:12:53,190 --> 00:12:54,950
+What we're saying is very Abrahamic.
+
+262
+00:12:55,740 --> 00:12:56,960
+Why do you have a problem with that?
+
+263
+00:12:57,840 --> 00:13:01,560
+And then أَفَلَا تَعْقِلُونَ
+Why don't you- Why don't you then apply your intellect?
+
+264
+00:13:01,690 --> 00:13:05,312
+هَـٰٓأَنتُمْ هَـٰٓؤُلَآءِ حَـٰجَجْتُمْ فِيمَا لَكُم بِهِۦ عِلْمٌۭ
+
+265
+00:13:05,640 --> 00:13:09,090
+Here you are debating about things that you do know some things about.
+
+266
+00:13:09,100 --> 00:13:10,790
+We see you debating about Moses.
+
+267
+00:13:10,790 --> 00:13:13,860
+We see you're debating about, you know, Jesus, etc etc.
+
+268
+00:13:14,430 --> 00:13:16,800
+فَلِمَ تُحَآجُّونَ فِيمَا لَيْسَ لَكُم بِهِۦ عِلْمٌۭ ۚ
+
+269
+00:13:16,977 --> 00:13:19,003
+Why are you even arguing about stuff, you know nothing of?
+
+270
+00:13:19,740 --> 00:13:20,960
+Why are you even making things up?
+
+271
+00:13:21,540 --> 00:13:24,660
+Because you know what some Christian theological arguments became?
+
+272
+00:13:25,040 --> 00:13:27,160
+The arguments became that of course, salvation
+
+273
+00:13:27,260 --> 00:13:29,450
+is only through the blood of Jesus,
+
+274
+00:13:30,420 --> 00:13:33,120
+right? Humanity's sins are paid for through the blood of Jesus.
+
+275
+00:13:33,640 --> 00:13:37,075
+And the only way to save yourself is by accepting Jesus as Lord and Savior.
+
+276
+00:13:37,940 --> 00:13:41,860
+But you can only accept Jesus as Lord and savior if you came after Jesus.
+
+277
+00:13:42,940 --> 00:13:44,260
+So what's gonna happen to Abraham?
+
+278
+00:13:45,040 --> 00:13:46,150
+What's gonna happen to Moses?
+
+279
+00:13:46,840 --> 00:13:48,820
+All these people that are talked about in the Bible
+
+280
+00:13:49,090 --> 00:13:50,560
+that were prophets of God
+
+281
+00:13:51,140 --> 00:13:53,060
+did not have the blood of Jesus to save them.
+
+282
+00:13:53,840 --> 00:13:56,730
+So what's gonna happen with them? Are they going to go to heaven without Jesus?
+
+283
+00:13:56,730 --> 00:14:00,030
+But wait, if we say they're going to go to heaven without Jesus, that's a problem.
+
+284
+00:14:00,040 --> 00:14:02,660
+Because that then that undercuts our whole Jesus theory.
+
+285
+00:14:03,640 --> 00:14:06,500
+So we have to come up with a new-- postulate a new theory.
+
+286
+00:14:06,510 --> 00:14:09,640
+So some denominations of Christianity came up with a solution,
+
+287
+00:14:09,650 --> 00:14:13,140
+and the solution was that those prophets and those good people that are mentioned
+
+288
+00:14:13,140 --> 00:14:16,450
+in the Bible from the past are stuck in the elevator called purgatory.
+
+289
+00:14:17,840 --> 00:14:20,960
+Okay? It's a place called Purgatory, it's not quite hell,
+
+290
+00:14:21,340 --> 00:14:24,160
+it's not heaven. They're basically stuck in the elevator.
+
+291
+00:14:24,540 --> 00:14:26,170
+And on Judgment Day, Jesus is gonna come.
+
+292
+00:14:26,170 --> 00:14:28,350
+They're gonna say, Oh, Lord and savior, And then they can go in.
+
+293
+00:14:30,340 --> 00:14:31,450
+So they had to make this up.
+
+294
+00:14:31,944 --> 00:14:35,210
+Allāh says I see you are arguing about things that are actually revealed
+
+295
+00:14:35,210 --> 00:14:36,920
+and you change it a little bit, you have some argument.
+
+296
+00:14:36,930 --> 00:14:38,160
+Why are you making stuff up?
+
+297
+00:14:39,340 --> 00:14:40,860
+Why are you even making these debates?
+
+298
+00:14:41,700 --> 00:14:45,231
+فَلِمَ تُحَآجُّونَ فِيمَا لَيْسَ لَكُم بِهِۦ عِلْمٌۭ ۚ وَٱللَّهُ يَعْلَمُ وَأَنتُمْ لَا تَعْلَمُونَ
+
+299
+00:14:45,310 --> 00:14:46,733
+Allāh knows and you dont know.
+
+300
+00:14:46,940 --> 00:14:52,150
+And then finally He uses the Abrahamic legacy to basically make the point:
+
+301
+00:14:52,150 --> 00:14:54,950
+They were probably saying, Yeah, fine, you're Muslim, we're not.
+
+302
+00:14:55,740 --> 00:14:56,225
+But Allāh says
+
+303
+00:14:56,250 --> 00:15:00,140
+by you saying that we are Muslim and you're not. Here is the point.
+
+304
+00:15:00,150 --> 00:15:03,053
+مَا كَانَ إِبْرَٰهِيمُ يَهُودِيًّۭا وَلَا نَصْرَانِيًّۭا
+
+305
+00:15:03,343 --> 00:15:07,097
+Ibrahim (عليه السلام) was neither Jewish nor Christian
+
+306
+00:15:07,267 --> 00:15:08,910
+وَلَـٰكِن كَانَ حَنِيفًۭا مُّسْلِمًۭا
+
+307
+00:15:08,910 --> 00:15:11,830
+however he was solely focused before Allāh,
+
+308
+00:15:11,840 --> 00:15:14,060
+one who submits to the will of God 'a Muslim'.
+
+309
+00:15:15,340 --> 00:15:16,757
+وَمَا كَانَ مِنَ ٱلْمُشْرِكِينَ
+
+310
+00:15:16,877 --> 00:15:19,620
+And he did not commit any form of shirk. He did not commit adultery--
+
+311
+00:15:19,630 --> 00:15:22,923
+you know idolatory of any kind. What is the āyāh saying?
+
+312
+00:15:23,053 --> 00:15:28,988
+By calling us Muslim, you are calling us those who uphold the legacy of Abraham.
+
+313
+00:15:29,013 --> 00:15:31,890
+By saying-- by you calling us Muslim
+
+314
+00:15:31,900 --> 00:15:36,670
+you've actually handed over the license to carry the legacy of Ibrahim to us.
+
+315
+00:15:36,670 --> 00:15:38,410
+You no longer have the right to that legacy.
+
+316
+00:15:38,420 --> 00:15:40,490
+You don't get to say you are loyal to Ibrahim.
+
+317
+00:15:40,500 --> 00:15:42,460
+You don't get to say you are Abrahamic faiths now.
+
+318
+00:15:43,040 --> 00:15:46,290
+So that's how the argument has progressed from Islam to Ibrahim.
+
+319
+00:15:46,300 --> 00:15:48,860
+And those two things have been tied together. Okay?
+
+320
+00:15:49,940 --> 00:15:53,070
+That's our second case study. Now we're gonna switch gears.
+
+321
+00:15:53,080 --> 00:15:56,910
+Those were Meccan examples, and we're going to go to
+
+322
+00:15:56,920 --> 00:16:02,420
+a progressive argument in Surat an-Naba, Makki surah, 78.
+
+323
+00:16:02,430 --> 00:16:07,390
+And we're gonna look at āyāhs number 6 all the way to 16.
+
+324
+00:16:07,400 --> 00:16:09,350
+Okay? These are āyāt of creation.
+
+325
+00:16:09,640 --> 00:16:11,170
+I'll translate them first for you,
+
+326
+00:16:11,170 --> 00:16:14,160
+and then show you some imagery and the progression of imagery in the āyāt.
+
+327
+00:16:14,540 --> 00:16:16,119
+أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَـٰدًۭا
+
+328
+00:16:16,219 --> 00:16:18,160
+Didn't We make the earth into a cradle?
+
+329
+00:16:19,040 --> 00:16:20,620
+وَٱلْجِبَالَ أَوْتَادًۭا
+
+330
+00:16:20,860 --> 00:16:23,560
+And didn't We make the mountains into pegs?
+
+331
+00:16:24,140 --> 00:16:26,860
+أَوْتَادًۭا - is used for the pegs you put down for a tent.
+
+332
+00:16:28,340 --> 00:16:30,200
+وَخَلَقْنَـٰكُمْ أَزْوَٰجًۭا
+
+333
+00:16:30,240 --> 00:16:32,660
+And didn't We--and We made you into spouses.
+
+334
+00:16:33,361 --> 00:16:34,880
+وَجَعَلْنَا نَوْمَكُمْ سُبَاتًۭا
+
+335
+00:16:34,880 --> 00:16:37,488
+And We made your sleep into something that cuts you off.
+
+336
+00:16:37,688 --> 00:16:39,660
+يعني قطعا سباتا قطعا
+
+337
+00:16:40,040 --> 00:16:41,488
+It cuts you off
+
+338
+00:16:41,545 --> 00:16:45,488
+وَجَعَلْنَا ٱلَّيْلَ لِبَاسًۭا
+And We made the night into a garment, a clothing.
+
+339
+00:16:45,513 --> 00:16:49,760
+وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًۭا
+And We made the day into a means of living.
+
+340
+00:16:51,040 --> 00:16:54,900
+وَبَنَيْنَا فَوْقَكُمْ سَبْعًۭا شِدَادًۭا
+And We placed above you
+
+341
+00:16:54,900 --> 00:16:57,360
+seven intense ones, meaning seven skies.
+
+342
+00:16:57,740 --> 00:17:02,660
+وَجَعَلْنَا سِرَاجًۭا وَهَّاجًۭا
+And We placed a burning lamp,
+
+343
+00:17:03,640 --> 00:17:06,270
+a brilliant blazing lamp, meaning referring to the sun.
+
+344
+00:17:06,640 --> 00:17:09,890
+وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءًۭ ثَجَّاجًۭا
+
+345
+00:17:09,900 --> 00:17:13,900
+And We sent down from the squeezing clouds water that gushes out
+
+346
+00:17:13,925 --> 00:17:18,119
+لِّنُخْرِجَ بِهِۦ حَبًّۭا وَنَبَاتًۭا
+وَجَنَّـٰتٍ أَلْفَافًا
+
+347
+00:17:18,219 --> 00:17:24,130
+So that by means of it grains and produce can come out and gardens that are lush can come forth.
+
+348
+00:17:24,140 --> 00:17:28,270
+Okay, so these are āyāt of Allāh from the earth, the mountain and so on and so forth.
+
+349
+00:17:28,270 --> 00:17:28,660
+Okay?
+
+350
+00:17:29,140 --> 00:17:31,840
+You'll notice in these āyāt, there's an imagery
+
+351
+00:17:31,970 --> 00:17:32,860
+that's been captured.
+
+352
+00:17:33,440 --> 00:17:39,050
+Surāt an-Naba's function, its basic premise is there's a life after death.
+
+353
+00:17:39,540 --> 00:17:40,670
+Judgment Day is coming.
+
+354
+00:17:41,140 --> 00:17:43,280
+And everything Allāh makes is in pairs.
+
+355
+00:17:43,530 --> 00:17:46,380
+This life has been paired with the next one.
+
+356
+00:17:46,580 --> 00:17:48,960
+Jannah has been paired with Nār (fire), for example.
+
+357
+00:17:49,440 --> 00:17:51,200
+This life is like one day,
+
+358
+00:17:51,210 --> 00:17:53,430
+because when people will rise on Judgment Day and they
+
+359
+00:17:53,430 --> 00:17:55,020
+will be asked how long did you stay here?
+
+360
+00:17:55,020 --> 00:17:55,660
+What will they say?
+
+361
+00:17:55,820 --> 00:17:58,380
+لَبِثْنَا يَوْمًا
+
+362
+00:17:58,530 --> 00:17:59,460
+We were only here for a day.
+
+363
+00:17:59,940 --> 00:18:00,450
+Okay?
+
+364
+00:18:00,840 --> 00:18:02,960
+And this day has been paired with that day.
+
+365
+00:18:03,740 --> 00:18:05,560
+This day and that day. Okay?
+
+366
+00:18:06,040 --> 00:18:08,460
+Allāh says this function or this design of Allāh
+
+367
+00:18:08,460 --> 00:18:11,170
+of things in pairs, Allāh put in everything.
+
+368
+00:18:11,740 --> 00:18:13,820
+And so what-- part of that is
+
+369
+00:18:13,830 --> 00:18:16,930
+the earth is paired and earth Allah actually
+
+370
+00:18:16,930 --> 00:18:19,270
+paired with the flat land with the mountain.
+
+371
+00:18:20,040 --> 00:18:24,910
+The earth is 'مِهَـٰدًۭا' and the 'ٱلْجِبَالَ' is 'أَوْتَادًۭا' Okay?
+
+372
+00:18:24,920 --> 00:18:29,810
+And this is actually also goes into a subtle bit of imagery,
+
+373
+00:18:29,820 --> 00:18:31,160
+things alluding to other things.
+
+374
+00:18:31,160 --> 00:18:32,270
+'مِهَـٰدًۭا' is a bed,
+
+375
+00:18:33,040 --> 00:18:35,490
+but 'مِهَـٰدًۭا' is also the womb of a mother, mahad.
+
+376
+00:18:35,830 --> 00:18:37,360
+The cradle of a mother.
+
+377
+00:18:37,940 --> 00:18:40,460
+The earth is being described as a motherly,
+
+378
+00:18:40,840 --> 00:18:45,650
+you know image. And the earth has the same qualities as a mother. How so?
+
+379
+00:18:45,660 --> 00:18:48,820
+Because the earth produces life, like a mother produces life.
+
+380
+00:18:48,820 --> 00:18:49,960
+The female produces life.
+
+381
+00:18:50,540 --> 00:18:55,320
+The mountain is a symbol of strength, stability. What is this supposed to be? The man's role.
+
+382
+00:18:55,410 --> 00:18:56,170
+Qawwām.
+
+383
+00:18:56,640 --> 00:18:57,360
+Stable.
+
+384
+00:18:57,940 --> 00:19:00,850
+So the female and the male are compared like the earth and
+
+385
+00:19:01,240 --> 00:19:04,270
+the mountain. And of course, the mountain is described as,
+
+386
+00:19:04,840 --> 00:19:05,950
+(أَوْتَادًۭا) pegged.
+
+387
+00:19:06,640 --> 00:19:09,840
+And the peg is supposed to be something that stays in place, offers stability.
+
+388
+00:19:09,850 --> 00:19:10,670
+Okay?
+
+389
+00:19:10,680 --> 00:19:12,390
+Which is why I-- one of the reasons
+
+390
+00:19:12,400 --> 00:19:15,160
+rijāl are called rijāl, it is from rijal. And what is rijal?
+
+391
+00:19:16,340 --> 00:19:18,340
+They have their foot firm on the ground.
+
+392
+00:19:18,350 --> 00:19:21,980
+They are on firm standing; as part of the implication of the word the rijāl.
+
+393
+00:19:21,990 --> 00:19:22,760
+Okay?
+
+394
+00:19:23,240 --> 00:19:23,860
+Now
+
+395
+00:19:24,340 --> 00:19:27,870
+the progression here is also--Neil Robinson said this so beautifully
+
+396
+00:19:27,880 --> 00:19:30,460
+in his work on this surāh.
+
+397
+00:19:31,340 --> 00:19:32,350
+He describes
+
+398
+00:19:32,490 --> 00:19:34,270
+think of all of this imagery
+
+399
+00:19:34,740 --> 00:19:35,850
+as someone on a journey.
+
+400
+00:19:36,940 --> 00:19:37,960
+Someone on a journey.
+
+401
+00:19:38,840 --> 00:19:40,670
+They're traveling in the journey
+
+402
+00:19:41,040 --> 00:19:41,950
+in the desert.
+
+403
+00:19:42,110 --> 00:19:43,050
+What's their bed?
+
+404
+00:19:44,440 --> 00:19:44,950
+The earth.
+
+405
+00:19:45,940 --> 00:19:48,850
+And then they're going to set up a tent as night comes.
+
+406
+00:19:50,240 --> 00:19:54,260
+But they see the entire earth is a bed. And what looks like tents?
+
+407
+00:19:55,240 --> 00:19:56,050
+The mountains do.
+
+408
+00:19:57,040 --> 00:20:00,310
+And now, Allāh says, Just like the earth and the mountains are paired,
+
+409
+00:20:00,330 --> 00:20:01,450
+you're also paired.
+
+410
+00:20:02,540 --> 00:20:04,160
+And now imagine night falls
+
+411
+00:20:04,740 --> 00:20:07,600
+because he's traveling and night has fallen. He's going to set up his tent.
+
+412
+00:20:07,870 --> 00:20:10,350
+And he's going to sleep next to his spouse.
+
+413
+00:20:10,470 --> 00:20:13,380
+وَجَعَلْنَا نَوْمَكُمْ سُبَاتًۭا
+
+414
+00:20:13,740 --> 00:20:16,200
+and then He says, the night has been made--
+
+415
+00:20:16,200 --> 00:20:19,190
+Now the night has fallen because sleep logically leads into night.
+
+416
+00:20:19,340 --> 00:20:22,480
+The night has fallen and the night He describes as لِبَاسًۭا
+
+417
+00:20:22,490 --> 00:20:25,050
+which is really interesting because the only other time in the Qurān
+
+418
+00:20:25,640 --> 00:20:26,570
+spouse
+
+419
+00:20:26,960 --> 00:20:28,360
+and لِبَاسًۭا come together
+
+420
+00:20:28,940 --> 00:20:30,260
+are in the āyāt of Ramadan.
+
+421
+00:20:31,260 --> 00:20:34,553
+هُنَّ لِبَاسٌۭ لَّكُمْ وَأَنتُمْ لِبَاسٌۭ لَّهُنَّ
+
+422
+00:20:34,680 --> 00:20:37,860
+The night was made into a garment, just like your spouse is made into a garment.
+
+423
+00:20:38,430 --> 00:20:41,270
+Speaking of spouse, the night is also a garment. It's like that.
+
+424
+00:20:42,040 --> 00:20:44,950
+Okay, just like your spouses, your garment. The night is also a garment.
+
+425
+00:20:45,340 --> 00:20:50,170
+Now, after the night is done
+وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًۭا
+night is over
+
+426
+00:20:50,840 --> 00:20:52,360
+time to get up and make a living.
+
+427
+00:20:53,040 --> 00:20:55,770
+And when he makes a living, he's going to roll up his tent
+
+428
+00:20:56,440 --> 00:20:57,360
+and he's going to get out.
+
+429
+00:20:57,740 --> 00:21:00,110
+The sun in the desert is open and intense.
+
+430
+00:21:00,110 --> 00:21:01,126
+So what's he going to notice?
+
+431
+00:21:01,151 --> 00:21:04,850
+وَبَنَيْنَا فَوْقَكُمْ سَبْعًۭا شِدَادًۭا
+The seven skies above him
+
+432
+00:21:05,240 --> 00:21:07,550
+and in that sky, what's the most prominent thing?
+
+433
+00:21:07,831 --> 00:21:09,400
+وَجَعَلْنَا سِرَاجًۭا وَهَّاجًۭا
+
+434
+00:21:09,400 --> 00:21:14,450
+The intense burning sun. That intense burning sun can also be a kind of death.
+
+435
+00:21:15,340 --> 00:21:16,820
+But Allāh brings relief,
+
+436
+00:21:16,830 --> 00:21:18,830
+not only does He bring that intense burning lamp
+
+437
+00:21:18,887 --> 00:21:21,500
+وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءًۭ ثَجَّاجًۭا
+
+438
+00:21:21,525 --> 00:21:24,960
+What He brings from that same sky
+that is so intense with that burning lamp
+
+439
+00:21:24,970 --> 00:21:27,870
+He brings clouds that squeeze and water comes down and
+
+440
+00:21:27,870 --> 00:21:30,970
+then gardens come forth and your your life is sustained.
+
+441
+00:21:30,980 --> 00:21:32,770
+Everything is moving with everything else.
+
+442
+00:21:32,770 --> 00:21:36,640
+And Robinson argues that it's, which is even other part of other coherence.
+
+443
+00:21:36,640 --> 00:21:38,570
+where we talked about the placement of passages
+
+444
+00:21:38,580 --> 00:21:40,460
+that basically what Allāh is saying here
+
+445
+00:21:40,640 --> 00:21:44,560
+is that your life in this world is like one traveler in the desert.
+
+446
+00:21:46,279 --> 00:21:49,730
+Who goes, sleeps the night, puts his tent down.
+
+447
+00:21:49,740 --> 00:21:52,880
+Then he's gonna get up and he's gonna roll up his tent and he's gonna go along.
+
+448
+00:21:52,880 --> 00:21:54,050
+And his eventual destination
+
+449
+00:21:54,050 --> 00:21:56,960
+might be a garden, just like yours is meant to be the garden of Jannah.
+
+450
+00:21:58,040 --> 00:22:03,070
+Right? And which is why you'll find in Surat an-Naba
+
+451
+00:22:03,270 --> 00:22:05,470
+the mountains are gonna sail away
+
+452
+00:22:05,470 --> 00:22:07,670
+like the tent gets rolled up and taken away,
+
+453
+00:22:07,680 --> 00:22:11,400
+and the sky is gonna open up like everything is going to move from its place,
+
+454
+00:22:11,400 --> 00:22:13,170
+just like a traveler just moves on.
+
+455
+00:22:13,840 --> 00:22:14,800
+You know?
+
+456
+00:22:15,150 --> 00:22:19,060
+So that's the progression of imagery in Surat an-Naba.
+
+457
+00:22:19,440 --> 00:22:22,700
+My favorite example of this, however, is this one.
+
+458
+00:22:22,700 --> 00:22:25,130
+I don't know if I'll get to do both of them, but I'll do at least one of them.
+
+459
+00:22:25,140 --> 00:22:29,040
+And that--this is in Sūrat an-Nahl, Sūrah number 16
+
+460
+00:22:29,040 --> 00:22:32,550
+one of the most profound Sūrahs of imagery I've ever come across.
+
+461
+00:22:32,940 --> 00:22:36,600
+And this is āyahs number 64 to 69.
+
+462
+00:22:36,610 --> 00:22:37,840
+I'm going to read these off to you
+
+463
+00:22:37,840 --> 00:22:40,310
+in translation without showing you the progression first.
+
+464
+00:22:40,320 --> 00:22:42,060
+And then we'll talk about how they progress.
+
+465
+00:22:43,350 --> 00:22:46,060
+64 to 69 of Sūrat al-Nahl
+
+466
+00:22:46,085 --> 00:22:47,560
+al-Nahl is 16, okay?
+
+467
+00:22:48,040 --> 00:22:52,450
+وَمَآ أَنزَلْنَا عَلَيْكَ ٱلْكِتَـٰبَ
+We did not send the book down onto you
+
+468
+00:22:53,470 --> 00:22:56,405
+إِلَّا لِتُبَيِّنَ لَهُمُ ٱلَّذِى ٱخْتَلَفُوا۟ فِيهِ
+
+469
+00:22:56,530 --> 00:23:00,845
+except that you should clarify for them the things that they disagree about
+
+470
+00:23:00,990 --> 00:23:02,465
+وَهُدًۭى
+and as a guidance,
+
+471
+00:23:02,495 --> 00:23:03,932
+وَرَحْمَةًۭ
+and as a mercy
+
+472
+00:23:03,957 --> 00:23:06,572
+لِّقَوْمٍۢ يُؤْمِنُونَ
+for a group of people that wish to believe.
+
+473
+00:23:08,340 --> 00:23:14,110
+وَٱللَّهُ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءًۭ
+And Allāh, He sent down water from the sky
+
+474
+00:23:14,490 --> 00:23:17,700
+فَأَحْيَا بِهِ ٱلْأَرْضَ بَعْدَ مَوْتِهَآ
+and by means of the water
+
+475
+00:23:17,710 --> 00:23:21,960
+He brought earth--life to the earth after its death.
+
+476
+00:23:22,340 --> 00:23:25,050
+إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَسْمَعُونَ.
+
+477
+00:23:25,050 --> 00:23:29,250
+Certainly there is a sign in that for people that are willing to listen, that are trying to listen.
+
+478
+00:23:29,840 --> 00:23:32,282
+وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةًۭ
+
+479
+00:23:32,307 --> 00:23:37,210
+And in cattle there is yet another great profound lesson for you.
+
+480
+00:23:37,220 --> 00:23:38,660
+In what is there a lesson for you?
+
+481
+00:23:39,380 --> 00:23:40,140
+In cattle.
+
+482
+00:23:40,500 --> 00:23:45,030
+نُّسْقِيكُم مِّمَّا فِى بُطُونِهِ
+We give you drink from what is found in its belly
+
+483
+00:23:45,260 --> 00:23:49,100
+مِنۢ بَيْنِ فَرْثٍۢ وَدَمٍۢ
+from between feces and blood
+
+484
+00:23:49,940 --> 00:23:53,000
+لَّبَنًا خَالِصًۭا سَآئِغًۭا لِّلشَّـٰرِبِينَ
+
+485
+00:23:53,080 --> 00:23:56,560
+pure milk that replenishes, rejuvenates those who drink.
+
+486
+00:23:57,140 --> 00:23:58,950
+وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ
+
+487
+00:23:58,960 --> 00:24:01,484
+And from the fruits that come from palm trees
+
+488
+00:24:01,524 --> 00:24:04,514
+وَٱلْأَعْنَـٰبِ
+and from grapes
+
+489
+00:24:04,634 --> 00:24:10,060
+تَتَّخِذُونَ مِنْهُ سَكَرًۭا وَرِزْقًا حَسَنًا ۗ
+you use it to produce wine
+
+490
+00:24:10,940 --> 00:24:13,160
+and good sustenance too.
+
+491
+00:24:13,840 --> 00:24:14,640
+He separates them.
+
+492
+00:24:14,640 --> 00:24:17,860
+You can do two things with grapes and with dates, you can make wine out of them
+
+493
+00:24:18,240 --> 00:24:20,460
+or you can make good stuff from them too.
+
+494
+00:24:20,840 --> 00:24:22,370
+Because 'سَكَرًۭا' would not be a good thing.
+
+495
+00:24:22,380 --> 00:24:24,019
+But He says you can make it.
+
+496
+00:24:24,043 --> 00:24:27,509
+إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَعْقِلُونَ
+
+497
+00:24:27,499 --> 00:24:32,029
+And in all of that, there's certainly a sign for a group of people that are trying to understand.
+
+498
+00:24:32,059 --> 00:24:34,160
+وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ
+
+499
+00:24:34,540 --> 00:24:36,690
+and your Master revealed to the bee
+
+500
+00:24:37,440 --> 00:24:39,541
+أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًۭا
+
+501
+00:24:39,651 --> 00:24:43,381
+that you should take from the mountains--take up homes in the mountains
+
+502
+00:24:43,500 --> 00:24:46,100
+وَمِنَ ٱلشَّجَرِ
+and take up homes in the trees.
+
+503
+00:24:46,154 --> 00:24:48,511
+وَمِمَّا يَعْرِشُونَ
+and from whatever they build
+
+504
+00:24:48,601 --> 00:24:53,670
+meaning sometimes honey bees build a hive even in in the the columns of a palace
+
+505
+00:24:54,040 --> 00:24:58,400
+what people built. So not only in nature, in even artificial places
+
+506
+00:24:58,460 --> 00:25:00,238
+they might end up building something.
+
+507
+00:25:00,263 --> 00:25:04,000
+ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ
+Then eat from all of the fruits.
+
+508
+00:25:04,080 --> 00:25:09,470
+فَٱسْلُكِى سُبُلَ رَبِّكِ
+Then pursue the pathways identified by your Master
+
+509
+00:25:09,840 --> 00:25:11,770
+ذُلُلًۭا
+with humility
+
+510
+00:25:12,621 --> 00:25:16,560
+يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌۭ مُّخْتَلِفٌ أَلْوَٰنُهُ
+
+511
+00:25:16,670 --> 00:25:18,569
+what comes from its bellies.
+
+512
+00:25:18,569 --> 00:25:21,790
+Meaning the bellies of the bees is a drink that is of different colors.
+
+513
+00:25:21,930 --> 00:25:23,160
+He's referring to what drink?
+
+514
+00:25:23,640 --> 00:25:25,249
+He's referring to honey.
+
+515
+00:25:25,289 --> 00:25:28,999
+فِيهِ شِفَآءٌۭ لِّلنَّاسِ
+in which there is healing for people
+
+516
+00:25:29,110 --> 00:25:32,039
+إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَتَفَكَّرُونَ
+
+517
+00:25:32,069 --> 00:25:36,718
+In all of that, there certainly is a miraculous sign for people that think deeply.
+
+518
+00:25:36,768 --> 00:25:38,960
+Okay so this was the passage that
+
+519
+00:25:39,340 --> 00:25:43,480
+you may have thought of some parallels. Maybe you can guess
+
+520
+00:25:43,490 --> 00:25:45,460
+what connects these Ayāt? What is it?
+
+521
+00:25:46,140 --> 00:25:46,770
+Drinks.
+
+522
+00:25:47,440 --> 00:25:49,110
+Water from the sky.
+
+523
+00:25:49,320 --> 00:25:50,260
+Milk.
+
+524
+00:25:50,940 --> 00:25:51,810
+Wine.
+
+525
+00:25:52,120 --> 00:25:54,660
+Juices, honey, isn't it?
+
+526
+00:25:55,140 --> 00:25:56,820
+But there's something more going on here.
+
+527
+00:25:56,830 --> 00:25:59,480
+I deliberately included ayāh number 64 as
+
+528
+00:25:59,480 --> 00:26:01,470
+the first ayāh of the progressive passage,
+
+529
+00:26:01,480 --> 00:26:03,080
+which was not about drinks at all.
+
+530
+00:26:03,090 --> 00:26:03,960
+What is it about?
+
+531
+00:26:05,240 --> 00:26:08,960
+It's about revelation coming down so you could describe revelation to people.
+
+532
+00:26:09,540 --> 00:26:13,480
+And revelation will serve as guidance and revelation will serve as mercy
+
+533
+00:26:13,610 --> 00:26:15,170
+for people that seek to believe.
+
+534
+00:26:15,540 --> 00:26:18,080
+Everything else that follows is imagery that
+
+535
+00:26:18,080 --> 00:26:20,960
+will further your understanding of revelation itself.
+
+536
+00:26:21,840 --> 00:26:24,600
+The imagery are lessons by which we will learn something
+
+537
+00:26:24,600 --> 00:26:27,360
+about the process of revelation and the effect that it has.
+
+538
+00:26:27,940 --> 00:26:31,860
+Allāh says, He sent water from the sky and it gave life to the earth.
+
+539
+00:26:33,040 --> 00:26:35,110
+Just like revelation comes from the sky
+
+540
+00:26:35,740 --> 00:26:37,170
+and gives life to the hearts.
+
+541
+00:26:38,340 --> 00:26:40,460
+And usually when water comes from the sky
+
+542
+00:26:41,540 --> 00:26:44,500
+and gives life to the earth, is that a sign for your ears?
+
+543
+00:26:44,510 --> 00:26:46,010
+Or is that a sign for your eyes?
+
+544
+00:26:47,440 --> 00:26:50,478
+That's a sign for your eyes. Look at the end of the āyāh:
+
+545
+00:26:50,508 --> 00:26:54,550
+إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَسْمَعُونَ
+
+546
+00:26:55,240 --> 00:26:58,270
+In it, there's a sign for people that are trying to listen.
+
+547
+00:26:58,740 --> 00:26:59,230
+Wait,
+
+548
+00:26:59,400 --> 00:27:02,360
+which of the signs is for listening? Revelation or water?
+
+549
+00:27:04,040 --> 00:27:05,560
+So it's talking about revelation.
+
+550
+00:27:06,840 --> 00:27:08,850
+It's making you think, Look at water
+
+551
+00:27:09,340 --> 00:27:10,410
+but listen carefully
+
+552
+00:27:10,410 --> 00:27:13,960
+am I talking really about water, or am I using water as a metaphor?
+
+553
+00:27:14,440 --> 00:27:15,460
+Subḥānahu wataʿālā.
+
+554
+00:27:15,940 --> 00:27:20,670
+To describe what what revelation does. What life it brings.
+
+555
+00:27:21,540 --> 00:27:24,170
+And He says,
+speaking of drinks that replenish you
+
+556
+00:27:24,220 --> 00:27:26,270
+وَإِنَّ لَكُمْ فِى ٱلْأَنْعَـٰمِ لَعِبْرَةًۭ
+
+557
+00:27:26,270 --> 00:27:29,100
+Yet another parable is you can take a good look
+
+558
+00:27:29,100 --> 00:27:31,670
+at cattle. Because drink doesn't just come from the sky.
+
+559
+00:27:32,140 --> 00:27:33,360
+There are other drinks you enjoy.
+
+560
+00:27:33,740 --> 00:27:34,850
+Like milk.
+
+561
+00:27:35,440 --> 00:27:39,010
+Where does it come from? From the belly of an animal in between
+
+562
+00:27:39,010 --> 00:27:41,050
+what two things did He specifically say?
+
+563
+00:27:41,740 --> 00:27:43,660
+Blood and feces. Okay.
+
+564
+00:27:44,340 --> 00:27:46,460
+The earth can be brought to life.
+
+565
+00:27:47,140 --> 00:27:48,360
+Something good comes from it.
+
+566
+00:27:49,040 --> 00:27:52,060
+Now keep that imagery in mind, something good and something pure coming.
+
+567
+00:27:52,540 --> 00:27:54,850
+The Ṣaḥāba were in a good environment or in a bad environment?
+
+568
+00:27:56,240 --> 00:27:58,160
+They were in one of the worst environments in the world.
+
+569
+00:27:59,340 --> 00:28:05,160
+They were surrounded with what you can call impurity and impurity, blood and feces.
+
+570
+00:28:05,740 --> 00:28:09,130
+But when Allāh inspires, then purity can even come from within
+
+571
+00:28:09,130 --> 00:28:11,350
+the most impure of environments.
+
+572
+00:28:13,240 --> 00:28:16,270
+The most impure of environments will produce that which will replenish you
+
+573
+00:28:16,420 --> 00:28:17,460
+and give you.
+
+574
+00:28:17,840 --> 00:28:21,190
+The Qur'ān is also described as though it came from
+
+575
+00:28:21,190 --> 00:28:24,170
+the command of Allāh in the most corrupt of environments
+
+576
+00:28:24,180 --> 00:28:26,010
+and it to this day, it replenishes people.
+
+577
+00:28:26,040 --> 00:28:28,550
+خَالِصًۭا سَآئِغًۭا لِّلشَّـٰرِبِينَ
+
+578
+00:28:29,240 --> 00:28:31,780
+Yet another parable for revelation is
+
+579
+00:28:31,780 --> 00:28:33,270
+that even in the worst of environments,
+
+580
+00:28:33,270 --> 00:28:35,370
+revelation can come as pure and not be corrupted.
+
+581
+00:28:36,040 --> 00:28:38,560
+And it will replenish those even if they're in a bad environment.
+
+582
+00:28:38,940 --> 00:28:39,860
+You with me so far?
+
+583
+00:28:40,240 --> 00:28:45,670
+Okay, so now we're not just saying revelation is beneficial for you know, yes,
+
+584
+00:28:45,670 --> 00:28:47,300
+it gives the dead earth life.
+
+585
+00:28:47,310 --> 00:28:49,770
+But even in a bad environment, it can reform the environment.
+
+586
+00:28:50,640 --> 00:28:51,660
+He takes the next step,
+
+587
+00:28:52,240 --> 00:28:57,460
+He says, now ponder over the fruits that come from palm trees and grapes.
+
+588
+00:28:58,040 --> 00:29:00,750
+But when He talked about them, He didn't just say good stuff comes from it.
+
+589
+00:29:00,750 --> 00:29:01,760
+What did He say?
+
+590
+00:29:03,340 --> 00:29:06,270
+Bad stuff comes from it and-- 'سَكَرًۭا'
+
+591
+00:29:06,840 --> 00:29:08,960
+and you-- He didn't say Allah takes it out. He says
+
+592
+00:29:09,100 --> 00:29:11,360
+تَتَّخِذُونَ مِنْهُ سَكَرًۭا
+
+593
+00:29:11,840 --> 00:29:13,790
+you bring out from it wine
+
+594
+00:29:14,120 --> 00:29:15,860
+and you bring out good 'رِزْقًا' also.
+
+595
+00:29:16,740 --> 00:29:20,270
+One parable was a bad environment and goods coming out of it. Yes?
+
+596
+00:29:21,060 --> 00:29:22,250
+The opposite scene.
+
+597
+00:29:22,450 --> 00:29:26,060
+There's good originally. What's good originally? A palm tree is good
+
+598
+00:29:26,190 --> 00:29:28,560
+grapes are good. But what's coming out of it?
+
+599
+00:29:29,240 --> 00:29:29,770
+Bad.
+
+600
+00:29:30,240 --> 00:29:34,270
+Compare--Understand that the people that were given revelation before us,
+
+601
+00:29:34,310 --> 00:29:35,760
+the Israelites,
+
+602
+00:29:36,340 --> 00:29:39,490
+they were given a lot of good. Lots of prophets, the Tawrāt
+
+603
+00:29:39,500 --> 00:29:43,350
+everything about what they had was good. They took that pure good
+
+604
+00:29:43,360 --> 00:29:45,970
+and did they use it correctly or incorrectly?
+
+605
+00:29:45,980 --> 00:29:48,420
+They could have used it as رِزْقًا حَسَنًا
+
+606
+00:29:48,430 --> 00:29:51,060
+but they turned it into 'سَكَرًۭا' instead.
+
+607
+00:29:51,440 --> 00:29:53,655
+It's no accident that this Sūrat al-Nahl
+
+608
+00:29:53,680 --> 00:29:57,350
+at the very end is going to criticize the Israelites, even though it's a Makki Sūrah.
+
+609
+00:29:58,540 --> 00:29:58,860
+Okay?
+
+610
+00:29:59,540 --> 00:30:01,360
+You can misuse revelation too.
+
+611
+00:30:01,740 --> 00:30:05,060
+You can misuse the pure 'رِزْقًا' that Allāh gives you also.
+
+612
+00:30:06,240 --> 00:30:10,490
+In the worst of environments, purity can be retained.
+
+613
+00:30:10,500 --> 00:30:13,860
+And in the best of environments, your corruption can make it corrupt too.
+
+614
+00:30:14,540 --> 00:30:18,070
+تَتَّخِذُونَ مِنْهُ سَكَرًۭا وَرِزْقًا حَسَنًا
+
+615
+00:30:18,140 --> 00:30:19,960
+And this is for those who really think about it.
+
+616
+00:30:21,340 --> 00:30:24,660
+Every drink has some reference to what happens with revelations so far. Yeah?
+
+617
+00:30:25,740 --> 00:30:27,360
+وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ
+
+618
+00:30:27,840 --> 00:30:29,850
+Allāh revealed to the bee
+
+619
+00:30:30,240 --> 00:30:32,760
+and the bees job is to take from different places
+
+620
+00:30:33,140 --> 00:30:36,580
+and then take pathways that Allāh commanded it to, just like angels
+
+621
+00:30:36,580 --> 00:30:39,460
+take the pathways Allāh command them to, to deliver revelation.
+
+622
+00:30:39,940 --> 00:30:42,160
+And Allāh inspired them to bring that revelation.
+
+623
+00:30:42,170 --> 00:30:46,400
+And when they bring that revelation, what is the benefit of this revelation?
+
+624
+00:30:46,490 --> 00:30:48,360
+Does revelation have different textures by the way?
+
+625
+00:30:48,940 --> 00:30:51,090
+Do some Ayāt bring mercy?  Do some bring fear?
+
+626
+00:30:51,090 --> 00:30:53,950
+Do some bring council? Do some bring knowledge? Do some bring wisdom?
+
+627
+00:30:54,440 --> 00:30:56,770
+شَرَابٌۭ مُّخْتَلِفٌ أَلْوَٰنُهُۥ
+
+628
+00:30:57,140 --> 00:31:00,460
+Do all the Sūrahs have the same color? The same texture? The same flavor?
+
+629
+00:31:00,840 --> 00:31:03,770
+Do they all have their own sweetness? Unique signatures?
+
+630
+00:31:04,540 --> 00:31:05,850
+And so He says,
+
+631
+00:31:05,875 --> 00:31:10,020
+فِيهِ شِفَآءٌۭ لِّلنَّاسِ
+In it, meaning in honey, there is
+
+632
+00:31:10,468 --> 00:31:14,390
+healing for people. The only other time 'شِفَآءٌ' is used in the Qur'ān
+
+633
+00:31:15,740 --> 00:31:20,538
+قَدْ جَآءَتْكُم مَّوْعِظَةٌۭ مِّن رَّبِّكُمْ وَشِفَآءٌۭ لِّمَا فِى ٱلصُّدُورِ
+
+634
+00:31:20,618 --> 00:31:22,288
+Qur'ān is 'شِفَآءٌۭ', honey is 'شِفَآءٌۭ'
+
+635
+00:31:22,313 --> 00:31:24,860
+because the honey is a parable for the Qur'ān and its sweetness
+
+636
+00:31:25,840 --> 00:31:27,060
+and its divine origin.
+
+637
+00:31:27,940 --> 00:31:31,710
+And the way that the honey is extracted,
+
+638
+00:31:31,710 --> 00:31:34,060
+nobody can extract it except by the command of Allāh.
+
+639
+00:31:34,940 --> 00:31:38,040
+Its sources and the way it's turned into revelation.
+
+640
+00:31:38,050 --> 00:31:41,270
+You know like Allāh took, literally, what is right in front of us.
+
+641
+00:31:41,270 --> 00:31:42,260
+History is in front of us.
+
+642
+00:31:42,260 --> 00:31:44,490
+The events are in front of us,
+and Allāh will make reference to events
+
+643
+00:31:44,490 --> 00:31:46,440
+that happened before the Prophet's eyes, before the
+
+644
+00:31:46,440 --> 00:31:49,920
+people's eyes. Allāh will make reference to things that happen in the time of Fir'own
+
+645
+00:31:49,930 --> 00:31:51,660
+and historians will talk about it.
+
+646
+00:31:51,670 --> 00:31:53,450
+Others will talk about it, it's the same fruit
+
+647
+00:31:53,460 --> 00:31:57,460
+but when the honeybee extracts from it and by Allāh's command produces honey,
+
+648
+00:31:57,840 --> 00:31:59,670
+it's a different thing altogether.
+
+649
+00:32:00,440 --> 00:32:04,520
+And so it's the same events that a historian sees, that human being sees.
+
+650
+00:32:04,530 --> 00:32:06,610
+But when Allāh comments on that event,
+
+651
+00:32:06,620 --> 00:32:08,860
+then its sweetness and its guidance is something else,
+
+652
+00:32:08,860 --> 00:32:10,110
+it's healing for people
+
+653
+00:32:10,135 --> 00:32:12,990
+إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَتَفَكَّرُونَ
+
+654
+00:32:13,110 --> 00:32:15,610
+You can go to the same flower that the honeybee goes to.
+
+655
+00:32:15,620 --> 00:32:20,170
+You can go to the same fruit that the honeybee goes to, and you won't get honey out of it.
+
+656
+00:32:21,240 --> 00:32:23,890
+That can only happen when Allah extracts from it
+
+657
+00:32:23,890 --> 00:32:26,760
+by Allāh's command and compiles it.
+
+658
+00:32:27,640 --> 00:32:31,740
+And so:
+إِنَّ فِى ذَٰلِكَ لَـَٔايَةًۭ لِّقَوْمٍۢ يَتَفَكَّرُونَ
+
+659
+00:32:32,140 --> 00:32:36,600
+So the the the physical imagery in the Qur'ān and sometimes the
+
+660
+00:32:36,600 --> 00:32:40,310
+way it progresses has some very profound spiritual lessons associated with it.
+
+661
+00:32:40,320 --> 00:32:43,840
+Okay? Since you guys are doing okay, can I do another one
+
+662
+00:32:43,960 --> 00:32:45,550
+before the break? Okay.
+
+663
+00:32:46,540 --> 00:32:47,801
+This is also Sūrat al-Nahl
+
+664
+00:32:47,826 --> 00:32:50,260
+because I'm obsessed with Sūrat al-Nahl. It's really sweet.
+
+665
+00:32:50,840 --> 00:33:05,860
+Okay, that's a good one. Yeah, I've tickled myself. Hold on, I-- regain my composure.
+
+666
+00:33:08,351 --> 00:33:12,327
+بسم الله و الصلاة و السلام على رسول الله و على آله و صحبه أجمعين
+
+667
+00:33:12,352 --> 00:33:13,800
+أعوذ بالله من الشيطان الرجيم
+
+668
+00:33:13,869 --> 00:33:17,483
+وَٱللَّهُ أَخْرَجَكُم مِّنۢ بُطُونِ
+أُمَّهَـٰتِكُمْ لَا تَعْلَمُونَ شَيْـًۭٔا
+
+669
+00:33:17,507 --> 00:33:21,599
+وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ
+وَٱلْأَفْـِٔدَةَ ۙ لَعَلَّكُمْ تَشْكُرُونَ
+
+670
+00:33:22,940 --> 00:33:25,990
+These Ayāt from Sūrat al-Nahl and also represent
+
+671
+00:33:25,990 --> 00:33:29,040
+a progressive imagery that teaches a profound lesson
+
+672
+00:33:29,040 --> 00:33:32,060
+about the mercy of Allāh on human beings and how He cares for them.
+
+673
+00:33:32,540 --> 00:33:36,160
+Allāh 'azwa jal says, I'll translate all of it first, Allāh is the One Who--
+
+674
+00:33:36,160 --> 00:33:39,055
+Allāh in fact, He extracted you
+from the bellies of your mothers
+
+675
+00:33:39,079 --> 00:33:40,220
+while you knew nothing.
+
+676
+00:33:40,230 --> 00:33:41,210
+It also translates,
+
+677
+00:33:41,640 --> 00:33:42,860
+and you still know nothing.
+
+678
+00:33:43,540 --> 00:33:45,046
+لَا تَعْلَمُونَ شَيْـًۭٔا
+
+679
+00:33:45,056 --> 00:33:48,600
+could be ḥālīyah or i'tiradhiyah, and if it is ḥālīyah 'as you knew nothing',
+
+680
+00:33:48,650 --> 00:33:50,240
+and by the way, you still know nothing.
+
+681
+00:33:50,260 --> 00:33:51,283
+Okay?
+
+682
+00:33:51,308 --> 00:33:53,400
+وَجَعَلَ لَكُمُ ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ
+
+683
+00:33:53,450 --> 00:33:54,360
+and He placed for you
+
+684
+00:33:54,370 --> 00:33:59,280
+He put for you in place the ability to see--to hear, to see and hearts.
+
+685
+00:33:59,305 --> 00:34:01,270
+لَعَلَّكُمْ تَشْكُرُونَ
+So you may become grateful
+
+686
+00:34:02,040 --> 00:34:05,070
+أَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ مُسَخَّرَٰتٍۢ فِى جَوِّ ٱلسَّمَآءِ
+
+687
+00:34:05,095 --> 00:34:10,050
+Haven't they looked to birds that are hung in the belly of the sky, in the middle of the sky.
+
+688
+00:34:10,739 --> 00:34:15,439
+مَا يُمْسِكُهُنَّ إِلَّا ٱللَّهُ
+Nobody's holding them in place except Allāh
+
+689
+00:34:15,539 --> 00:34:17,810
+إِنَّ فِى ذَٰلِكَ لَـَٔايَـٰتٍۢ لِّقَوْمٍۢ يُؤْمِنُونَ
+
+690
+00:34:17,835 --> 00:34:19,400
+In all of that, there certainly are
+
+691
+00:34:19,400 --> 00:34:21,679
+miraculous signs for those who believe
+
+692
+00:34:21,679 --> 00:34:24,110
+وَٱللَّهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمْ سَكَنًۭا
+
+693
+00:34:24,270 --> 00:34:26,720
+And Allāh put--made for you in your homes,
+
+694
+00:34:26,744 --> 00:34:30,860
+a place in which you can find
+stillness, comfort, calmness.
+
+695
+00:34:31,139 --> 00:34:33,563
+وَجَعَلَ لَكُم مِّن جُلُودِ ٱلْأَنْعَـٰمِ بُيُوتًۭا
+
+696
+00:34:33,623 --> 00:34:38,393
+and He also put in place for you, from the skins of animals, temporary homes you can make.
+
+697
+00:34:38,433 --> 00:34:41,273
+تَسْتَخِفُّونَهَا
+You find them light to carry on your backs.
+
+698
+00:34:41,313 --> 00:34:42,360
+Tents basically
+
+699
+00:34:42,840 --> 00:34:44,389
+made from the skins of animals.
+
+700
+00:34:44,400 --> 00:34:46,514
+يَوْمَ ظَعْنِكُمْ وَيَوْمَ إِقَامَتِكُمْ
+
+701
+00:34:46,554 --> 00:34:49,304
+The day you're going to go take off, the day your going stay
+
+702
+00:34:49,354 --> 00:34:53,384
+وَمِنْ أَصْوَافِهَا وَأَوْبَارِهَا وَأَشْعَارِهَآ أَثَـٰثًۭا وَمَتَـٰعًا إِلَىٰ حِينٍۢ
+
+703
+00:34:53,460 --> 00:34:57,200
+and you take from their wool and their hairs and their skins.
+
+704
+00:34:57,210 --> 00:34:59,940
+You take them to make all kinds of goodness for yourselves
+
+705
+00:35:00,010 --> 00:35:02,060
+and to enjoy them for a while.
+
+706
+00:35:02,160 --> 00:35:04,733
+وَٱللَّهُ جَعَلَ لَكُم
+مِّمَّا خَلَقَ ظِلَـٰلًۭا
+
+707
+00:35:04,757 --> 00:35:08,870
+And Allāh put in place for you from
+the things He created shadows, shade.
+
+708
+00:35:09,540 --> 00:35:10,580
+The comfort of shade.
+
+709
+00:35:11,428 --> 00:35:13,588
+وَجَعَلَ لَكُم مِّنَ ٱلْجِبَالِ أَكْنَـٰنًۭا
+
+710
+00:35:13,618 --> 00:35:15,878
+And He put in place for you from the mountains--
+
+711
+00:35:15,948 --> 00:35:20,708
+within the mountains He made caves for you to find refuge in as you travel.
+
+712
+00:35:20,740 --> 00:35:22,480
+وَجَعَلَ لَكُمْ سَرَٰبِيلَ
+
+713
+00:35:22,560 --> 00:35:25,713
+and He put in place for you the kinds of garments or clothing or gear
+
+714
+00:35:25,793 --> 00:35:28,443
+تَقِيكُمُ ٱلْحَرَّ
+that protects you from intense heat.
+
+715
+00:35:28,619 --> 00:35:30,553
+وَسَرَٰبِيلَ
+And other garments
+
+716
+00:35:30,673 --> 00:35:33,620
+تَقِيكُم بَأْسَكُمْ
+that protects you from war, meaning armor.
+
+717
+00:35:34,040 --> 00:35:37,832
+كَذَٰلِكَ يُتِمُّ نِعْمَتَهُۥ عَلَيْكُمْ
+That is how He completes His favor upon you
+
+718
+00:35:37,852 --> 00:35:38,810
+لَعَلَّكُمْ تُسْلِمُونَ
+
+719
+00:35:38,810 --> 00:35:40,622
+so you may be in submission.
+
+720
+00:35:40,742 --> 00:35:44,020
+Now it seems kind of all over the place.
+
+721
+00:35:44,240 --> 00:35:46,550
+It started with what? What do you recall?
+
+722
+00:35:46,560 --> 00:35:49,860
+You came out of the bellies of your mothers.
+
+723
+00:35:50,340 --> 00:35:52,280
+Let's take a step back and understand first and
+
+724
+00:35:52,280 --> 00:35:54,740
+foremost that in that first of these Ayāt, Allāh 'azwa jal
+
+725
+00:35:54,740 --> 00:35:56,500
+said that He put in place for you hearing,
+
+726
+00:35:56,500 --> 00:36:00,190
+seeing and heart so you can become grateful.
+
+727
+00:36:00,340 --> 00:36:05,933
+In other words, all of what is to follow is Allāh's way of getting us to become more what?
+
+728
+00:36:06,043 --> 00:36:08,893
+Grateful from what we see and what we hear from Allāh.
+
+729
+00:36:08,913 --> 00:36:12,597
+What we hear from Allāh
+should effect how we see things
+
+730
+00:36:12,621 --> 00:36:15,620
+and that should infect--effect our hearts.
+
+731
+00:36:15,630 --> 00:36:20,370
+So there's a progressive relationship between hearing, seeing and the hearts.
+
+732
+00:36:20,370 --> 00:36:24,450
+I'll repeat that, when you hear something, it changes the way you see things.
+
+733
+00:36:24,460 --> 00:36:28,064
+Now that you see it differently, it effects your heart.
+
+734
+00:36:28,320 --> 00:36:30,570
+So every time you see it, there's an impact on your heart.
+
+735
+00:36:30,590 --> 00:36:35,377
+That's the kind of the A-B-C.
+ٱلسَّمْعَ وَٱلْأَبْصَـٰرَ وَٱلْأَفْـِٔدَةَ ۙ
+
+736
+00:36:35,402 --> 00:36:38,740
+That's highlighted here and how does it effect your heart? It makes you what?
+
+737
+00:36:39,230 --> 00:36:40,870
+Grateful
+لَعَلَّكُمْ تَشْكُرُونَ
+
+738
+00:36:40,850 --> 00:36:43,340
+You with me so far? Okay, now let's begin.
+
+739
+00:36:44,030 --> 00:36:47,820
+Allāh took you out of the bellies of your mothers. You were surrounded by comfort.
+
+740
+00:36:47,820 --> 00:36:50,130
+Allah enveloped you in the belly of your mother.
+
+741
+00:36:50,180 --> 00:36:53,350
+And the time came where you could no longer be surrounded by
+
+742
+00:36:53,350 --> 00:36:57,040
+that perfect life that Allāh had enveloped you and wrapped you in.
+
+743
+00:36:57,110 --> 00:37:00,760
+He had covered you in the bellies of your mothers and He took you out.
+
+744
+00:37:00,890 --> 00:37:03,160
+Now that He's taking you out. Observe!
+
+745
+00:37:03,430 --> 00:37:06,840
+Do you remember how you were in the belly of your mother? How He kept you there?
+
+746
+00:37:06,850 --> 00:37:09,960
+You should think about how a bird is kept in the belly of the sky.
+
+747
+00:37:11,530 --> 00:37:13,100
+Look at that sky hanging
+
+748
+00:37:13,125 --> 00:37:17,220
+مُسَخَّرَٰتٍۢ فِى جَوِّ ٱلسَّمَآءِ مَا يُمْسِكُهُنَّ إِلَّا ٱللَّهُ ۗ
+
+749
+00:37:17,260 --> 00:37:19,070
+Nobody's holding them in place except Allāh.
+
+750
+00:37:19,080 --> 00:37:23,460
+Just like nobody was holding you inside the belly of your mother except Allāh.
+
+751
+00:37:23,560 --> 00:37:26,250
+Next time you see a bird, you remember what you were inside your mom.
+
+752
+00:37:27,330 --> 00:37:31,320
+That bird is at the mercy of Allāh like you were at the mercy of Allāh.
+
+753
+00:37:31,330 --> 00:37:34,740
+That bird, its world is the sky. Your world was the belly of your mother.
+
+754
+00:37:35,930 --> 00:37:39,460
+Now, and that shold--looking at that bird should now enhance your faith.
+
+755
+00:37:39,830 --> 00:37:44,540
+And by the way, even though you came out of the covering of your mother,
+
+756
+00:37:44,930 --> 00:37:46,460
+Allāh gave you a new covering.
+
+757
+00:37:47,240 --> 00:37:49,995
+وَٱللَّهُ جَعَلَ لَكُم مِّنۢ بُيُوتِكُمْ سَكَنًۭا
+
+758
+00:37:50,130 --> 00:37:52,950
+He now covered you in the comfort of your homes.
+
+759
+00:37:53,830 --> 00:37:55,960
+Just like your home used to be mom
+
+760
+00:37:56,330 --> 00:37:59,170
+now your home is your your new mom in a sense,
+
+761
+00:37:59,180 --> 00:38:01,150
+and you had sukūn inside your mom.
+
+762
+00:38:01,620 --> 00:38:05,540
+There was no problem, no issues. And now your home has sakana in it.
+
+763
+00:38:05,920 --> 00:38:07,410
+And even when you travel,
+
+764
+00:38:07,420 --> 00:38:13,030
+you take the animal skin and make homes and cover yourselves by Allāh's mercy
+
+765
+00:38:13,060 --> 00:38:15,550
+the way you did once you were in the bellies of your moms.
+
+766
+00:38:16,520 --> 00:38:18,950
+And Allāh made it easy for you to be covered yet again,
+
+767
+00:38:20,220 --> 00:38:25,390
+even when your staying or your moving along from its wool and its hair and its skin.
+
+768
+00:38:25,400 --> 00:38:30,180
+And then He says: And I also by they way, even when you're not physically covered
+
+769
+00:38:30,220 --> 00:38:31,650
+I cover you with shadows.
+
+770
+00:38:32,620 --> 00:38:36,080
+وَٱللَّهُ جَعَلَ لَكُم مِّمَّا خَلَقَ ظِلَـٰلًۭا
+
+771
+00:38:36,420 --> 00:38:37,340
+With shadows.
+
+772
+00:38:37,920 --> 00:38:42,350
+And even when you are in the rough, rigid terrain of a mountain and a storm comes,
+
+773
+00:38:42,360 --> 00:38:45,440
+I allow you to go into the belly of a mountain inside caves.
+
+774
+00:38:45,540 --> 00:38:46,900
+وَمِنَ ٱلْجِبَالِ أَكْنَـٰنًۭا
+
+775
+00:38:48,020 --> 00:38:50,540
+And even when there's no shadow and there's no
+
+776
+00:38:50,540 --> 00:38:52,920
+cave and there's no other thing covering you,
+
+777
+00:38:52,930 --> 00:38:56,820
+I gave you the cover of clothing that protects you from the intense heat.
+
+778
+00:38:56,820 --> 00:38:58,340
+That's another covering I gave you.
+
+779
+00:38:59,720 --> 00:39:01,340
+And even when you go to war,
+
+780
+00:39:01,340 --> 00:39:03,230
+I taught you how to make a covering that will protect you
+
+781
+00:39:03,230 --> 00:39:07,130
+from that kind of environment. Constantly protecting you,
+
+782
+00:39:07,140 --> 00:39:10,530
+covering you, protecting you from the heat, protecting you with shade,
+
+783
+00:39:10,540 --> 00:39:12,490
+protecting you, giving you sukūn in the home.
+
+784
+00:39:12,500 --> 00:39:17,860
+Ya Allāh we never left that care of Allāh that was inside the bellies of our mothers
+
+785
+00:39:17,860 --> 00:39:19,840
+now you appreciate when Allāh says you don't know anything.
+
+786
+00:39:21,620 --> 00:39:24,830
+You and I think we were so helpless when we were inside our moms.
+
+787
+00:39:26,320 --> 00:39:28,030
+Allāh reminds us actually,
+
+788
+00:39:28,420 --> 00:39:30,340
+you're still inside your clothes.
+
+789
+00:39:30,820 --> 00:39:32,420
+You're still inside a shade.
+
+790
+00:39:32,750 --> 00:39:34,330
+You're still inside a home.
+
+791
+00:39:35,720 --> 00:39:39,250
+You know you should remember that the bird is still inside the sky.
+
+792
+00:39:40,320 --> 00:39:44,360
+And remember, you're still inside some level of 'رحمة' of Allāh.
+
+793
+00:39:44,370 --> 00:39:45,990
+There's an Ayāh that's not here
+
+794
+00:39:46,060 --> 00:39:50,500
+that unravels, unwraps pun intended all of this.
+
+795
+00:39:51,120 --> 00:39:54,950
+Judgment Day, Allāh says
+وَتَرَكْتُم مَّا خَوَّلْنَـٰكُمْ
+
+796
+00:39:56,220 --> 00:40:00,170
+You have left behind all the wrappings We wrapped you in.
+
+797
+00:40:01,420 --> 00:40:03,150
+All the covers We had placed on you.
+
+798
+00:40:03,620 --> 00:40:04,500
+All of them are gone.
+
+799
+00:40:04,810 --> 00:40:05,750
+Subḥānallāh.
+
+800
+00:40:06,720 --> 00:40:09,770
+Allāh 'azwa jal keeping us secured in covering
+
+801
+00:40:10,070 --> 00:40:11,840
+is the theme of this passage.
+
+802
+00:40:12,690 --> 00:40:15,190
+The most obvious of which was the belly of the mother.
+
+803
+00:40:15,620 --> 00:40:17,550
+But the rest of it wasn't as obvious.
+
+804
+00:40:17,560 --> 00:40:22,150
+So He built it progressively, one by one by one by one by one. Subḥānallāh.
+
+805
+00:40:22,160 --> 00:40:26,320
+Okay? So that's that's why Sūrat al-Nahl-yeah.
+
+806
+00:40:27,720 --> 00:40:29,450
+Yeah, that's pretty sweet.
+
