@@ -1,0 +1,1416 @@
+1
+00:00:01,610 --> 00:00:08,000
+الحمد لله رب العالمين
+و الصلاة و السلام على سيّد الأنبياء و المرسلين
+و على آله و صحبه أجمعين
+
+2
+00:00:08,040 --> 00:00:10,180
+السلام عليك و رحمة الله و بركاته
+
+3
+00:00:10,250 --> 00:00:15,160
+We're going to try to understand
+a structural analysis of Sūrat al-Qāf rather.
+
+4
+00:00:15,840 --> 00:00:17,390
+The 50th sūra of the Qur'ān.
+
+5
+00:00:18,210 --> 00:00:20,610
+This sūra is going to be an opportunity for me to
+
+6
+00:00:20,610 --> 00:00:24,700
+share with you also how some of the symmetrical composition works.
+
+7
+00:00:24,700 --> 00:00:27,260
+Some of the more complex, symmetrical composition works.
+
+8
+00:00:27,270 --> 00:00:30,630
+It's not like the three āyāt in the beginning
+
+9
+00:00:30,640 --> 00:00:33,070
+are paralleled with the three āyāt at the end.
+
+10
+00:00:33,070 --> 00:00:35,360
+It's not like that. Don't think of it in terms of number.
+
+11
+00:00:35,720 --> 00:00:38,050
+Don't think of it in terms of wording.
+
+12
+00:00:38,240 --> 00:00:40,300
+It's going to be in terms of subject matter.
+
+13
+00:00:40,600 --> 00:00:45,360
+The parallels that happen or the mirrors that happen are in terms of subject matter.
+
+14
+00:00:45,360 --> 00:00:47,040
+If you remember my discussion on Sūrat al-Nūr
+
+15
+00:00:47,040 --> 00:00:51,150
+you saw that the beginning was mirrored by the end. Social versus political.
+
+16
+00:00:52,140 --> 00:00:56,460
+But then there was the sabotage effort, followed by council.
+
+17
+00:00:57,240 --> 00:01:00,430
+If you were mirroring that, you would find council followed,
+
+18
+00:01:00,440 --> 00:01:01,790
+followed by sabotage effort.
+
+19
+00:01:01,800 --> 00:01:04,860
+But you found a parallel sabotage effort, followed by counsel.
+
+20
+00:01:04,860 --> 00:01:09,280
+So it had A - B on one end, and then again A - B on the other end.
+
+21
+00:01:09,290 --> 00:01:12,750
+Not A - B on this end and then B - A on the other end, you understand?
+
+22
+00:01:13,340 --> 00:01:16,540
+And similarly, what came in were three sets of permissions
+
+23
+00:01:16,540 --> 00:01:18,950
+or three sets of regulations A, B and C.
+
+24
+00:01:18,960 --> 00:01:23,770
+And then on the flip side was also instead of being C, B, and A, was still again A, B, and C.
+
+25
+00:01:23,780 --> 00:01:25,217
+So those are parallels.
+
+26
+00:01:25,640 --> 00:01:29,140
+Sometimes you find in the Qur'ān that they are mirrors.
+
+27
+00:01:29,150 --> 00:01:32,310
+So it's what was in one order is reversed in the other order,
+
+28
+00:01:32,320 --> 00:01:34,930
+and sometimes you find them in parallel order.
+
+29
+00:01:34,940 --> 00:01:35,450
+Okay?
+
+30
+00:01:35,840 --> 00:01:36,795
+So, Sūrat Qāf,
+
+31
+00:01:36,820 --> 00:01:40,240
+let's begin one section at a time. Before we discuss its overall architecture.
+
+32
+00:01:40,250 --> 00:01:43,970
+I've color coded them, so it's become a little bit easier for you to visualize.
+
+33
+00:01:43,980 --> 00:01:45,100
+I'll be reading the Arabic,
+
+34
+00:01:45,100 --> 00:01:48,460
+but I'll translate it for you so you can you can know what the message is about.
+
+35
+00:01:49,150 --> 00:01:50,518
+ق وَالْقُرْآنِ الْمَجِيدِ
+
+36
+00:01:50,555 --> 00:01:53,888
+بَلْ عَجِبُوا أَنْ جَاءَهُمْ مُنْذِرٌ مِنْهُمْ فَقَالَ الْكَافِرُونَ هَذَا شَيْءٌ عَجِيبٌ
+
+37
+00:01:53,910 --> 00:01:57,244
+أَئِذَا مِتْنَا وَكُنَّا تُرَابًا ذَلِكَ رَجْعٌ بَعِيدٌ
+
+38
+00:01:57,284 --> 00:02:01,028
+قَدْ عَلِمْنَا مَا تَنْقُصُ الأَرْضُ مِنْهُمْ وَعِنْدَنَا كِتَابٌ حَفِيظٌ
+
+39
+00:02:01,030 --> 00:02:04,185
+بَلْ كَذَّبُوا بِالْحَقِّ لَمَّا جَاءَهُمْ فَهُمْ فِي أَمْرٍ مَرِيجٍ
+
+40
+00:02:04,370 --> 00:02:09,139
+There are a few elements in this passage. One: Allāh is making-- drawing
+
+41
+00:02:09,150 --> 00:02:11,850
+as evidence the Nobility and the Majesty of the Qur'ān.
+
+42
+00:02:12,740 --> 00:02:16,200
+He's then saying that the disbelievers have two things to say.
+
+43
+00:02:16,210 --> 00:02:19,980
+The number one, the first thing they have to say is they find it very strange.
+
+44
+00:02:19,990 --> 00:02:22,160
+They find this entire message very strange.
+
+45
+00:02:22,740 --> 00:02:25,335
+And then they add to what that strangeness is.
+
+46
+00:02:25,390 --> 00:02:27,635
+'Well, after we die and we're decayed
+
+47
+00:02:27,640 --> 00:02:29,550
+how are we going to be brought back into a new life?'
+
+48
+00:02:30,340 --> 00:02:33,960
+'That seems very far fetched:
+رَجْعٌ بَعِيْد.' Okay.
+
+49
+00:02:34,340 --> 00:02:37,640
+And then Allāh responds by saying: you might think it's far fetched,
+
+50
+00:02:37,640 --> 00:02:40,059
+but the earth is already taking away from you little by little.
+
+51
+00:02:40,809 --> 00:02:43,478
+Meaning, your skin cells are
+dying every day, and a little of
+
+52
+00:02:43,502 --> 00:02:46,170
+you-- and every single day the
+earth is pulling you into itself.
+
+53
+00:02:46,180 --> 00:02:47,200
+And even after you die,
+
+54
+00:02:47,200 --> 00:02:49,050
+the earth will start decaying you. And Allāh knows
+
+55
+00:02:49,050 --> 00:02:50,860
+exactly what that decay is going to be.
+
+56
+00:02:51,340 --> 00:02:53,670
+But it's the slow process of
+
+57
+00:02:53,770 --> 00:02:56,172
+death that we are already a part of.
+
+58
+00:02:56,540 --> 00:02:58,050
+That Allāh, 'azza wa jalla, makes reference to.
+
+59
+00:02:58,050 --> 00:03:00,410
+قَدْ عَلِمْنَا مَا تَنْقُصُ الأَرْضُ مِنْهُمْ
+
+60
+00:03:00,440 --> 00:03:03,650
+And even though that is decaying, and everything is getting lost,
+
+61
+00:03:03,650 --> 00:03:05,660
+you're being lost into the earth.
+
+62
+00:03:05,630 --> 00:03:07,306
+Allāh says:
+وَ عِنْدَنَا كِتَابٌ حَفِيظٌ
+
+63
+00:03:07,390 --> 00:03:09,960
+We have a book that guards all of this.
+
+64
+00:03:10,140 --> 00:03:13,160
+Physically, you may be lost; but it's still preserved in a book.
+
+65
+00:03:13,540 --> 00:03:17,210
+And the truth is that they're just confused, and they're lying against this message.
+
+66
+00:03:17,220 --> 00:03:20,362
+They're calling it a lie because of their doubts.
+
+67
+00:03:20,402 --> 00:03:25,050
+Now, by the end of this sūra, Allāh says: be patient over what they say.
+
+68
+00:03:26,340 --> 00:03:28,867
+And later on, He says:
+نَحْنُ أَعْلَمُ بِمَا يَقُولُونَ
+
+69
+00:03:28,860 --> 00:03:30,594
+We know what they say.
+
+70
+00:03:30,594 --> 00:03:33,094
+So "saying" is mentioned twice,
+
+71
+00:03:33,040 --> 00:03:35,600
+Just like what they said. There were two things that they said:
+
+72
+00:03:35,610 --> 00:03:37,334
+They said "this is a strange thing"
+
+73
+00:03:37,374 --> 00:03:40,870
+and they said: "We're going to die, how are we going to be brought back?"
+
+74
+00:03:40,890 --> 00:03:44,310
+And Allāh refers to their saying twice and basically tells the Prophet ﷺ
+
+75
+00:03:44,320 --> 00:03:46,460
+you need to be patient with whatever they're saying,
+
+76
+00:03:46,470 --> 00:03:49,260
+and you will find patience in whatever they're saying
+
+77
+00:03:49,640 --> 00:03:51,990
+by recognizing that I know what they're saying.
+
+78
+00:03:52,490 --> 00:03:55,030
+نَحْنُ أَعْلَمُ بِمَا يَقُولُونَ وَمَا أَنْتَ عَلَيْهِمْ بِجَبَّارٍ
+
+79
+00:03:55,840 --> 00:03:58,910
+Interestingly, also, that passage began with the Nobility,
+
+80
+00:03:58,920 --> 00:04:00,100
+the Majesty of the Qur'ān.
+
+81
+00:04:00,090 --> 00:04:01,540
+ق وَالْقُرْآنِ الْمَجِيدِ
+
+82
+00:04:02,240 --> 00:04:07,236
+And you find the Qur'ān at the end passage again:
+فَذَكِّرْ بِالْقُرْآنِ مَنْ يَخَافُ وَعِيدِ
+
+83
+00:04:07,296 --> 00:04:10,260
+Remind with the Qur'ān whoever fears the Promise, the Threat.
+
+84
+00:04:11,302 --> 00:04:15,050
+Interestingly also, the Majesty of the Qur'ān means you don't
+
+85
+00:04:15,050 --> 00:04:17,670
+have to force anyone to acknowledge how powerful,
+
+86
+00:04:17,670 --> 00:04:19,260
+how beautiful, how majestic it is.
+
+87
+00:04:19,640 --> 00:04:22,180
+You don't take someone to the most beautiful
+
+88
+00:04:22,180 --> 00:04:24,350
+architecture or the most incredible scene and say,
+
+89
+00:04:24,360 --> 00:04:25,550
+'Hey, come on, isn't it beautiful?'
+
+90
+00:04:25,560 --> 00:04:27,280
+'Tell me it's beautiful! Please tell me it's beautiful!'
+
+91
+00:04:28,240 --> 00:04:29,650
+It speaks for itself.
+
+92
+00:04:30,040 --> 00:04:32,050
+If you can't see it, that's your problem.
+
+93
+00:04:32,940 --> 00:04:34,460
+That's not anybody else's problem.
+
+94
+00:04:35,040 --> 00:04:35,550
+Okay?
+
+95
+00:04:36,010 --> 00:04:38,264
+So, Allāh says:
+وَمَا أَنْتَ عَلَيْهِمْ بِجَبَّارٍ
+
+96
+00:04:38,254 --> 00:04:39,550
+You're not there to force them.
+
+97
+00:04:39,940 --> 00:04:42,050
+You're not there to force their hand to acknowledge
+
+98
+00:04:42,050 --> 00:04:43,820
+the Majesty of the Qur'ān, because it's majestic.
+
+99
+00:04:43,820 --> 00:04:47,400
+So it's actually furthering the notion of the Majesty of the Qur'ān.
+
+100
+00:04:47,410 --> 00:04:49,150
+You notice that they said,
+
+101
+00:04:50,490 --> 00:04:51,860
+ذَلِكَ رَجْعٌ بَعِيدٌ
+
+102
+00:04:52,240 --> 00:04:54,550
+This is a far fetched return.
+
+103
+00:04:54,940 --> 00:04:56,520
+And Allāh says, in response:
+
+104
+00:04:56,529 --> 00:05:00,190
+وَاسْتَمِعْ يَوْمَ يُنَادِ الْمُنَادِي مِنْ مَكَانٍ قَرِيبٍ
+
+105
+00:05:01,300 --> 00:05:06,050
+They see it as far-fetched. Allāh says:
+Listen for the day when the caller will call and he is really nearby.
+
+106
+00:05:07,140 --> 00:05:11,060
+So ba'id (بعيد) is contrasted with--far is contrasted with near.
+
+107
+00:05:11,730 --> 00:05:15,930
+Similarly there Allāh, 'azza wa jalla, described that slowly the earth is taking them away.
+
+108
+00:05:16,100 --> 00:05:16,810
+You recall?
+
+109
+00:05:17,440 --> 00:05:22,170
+And here Allāh will say:
+يَوْمَ تَشَقَّقُ الأَرْضُ عَنْهُمْ سِرَاعًا
+
+110
+00:05:22,640 --> 00:05:24,050
+What is (سُرْعَة)?
+
+111
+00:05:25,270 --> 00:05:26,960
+The earth will spit them out real fast.
+
+112
+00:05:27,840 --> 00:05:29,300
+It's slowly decaying them,
+
+113
+00:05:29,310 --> 00:05:32,160
+but on that day, it will tear open and pull them out really quickly.
+
+114
+00:05:32,640 --> 00:05:34,500
+They were questioning Resurrection,
+
+115
+00:05:34,500 --> 00:05:38,100
+And Allāh  says I don't need to explain My power to resurrect to them.
+
+116
+00:05:38,060 --> 00:05:40,560
+إِنَّا نَحْنُ نُحْيِي وَنُمِيتُ
+
+117
+00:05:40,550 --> 00:05:42,970
+We're the ones who give life and give death.
+
+118
+00:05:43,040 --> 00:05:44,460
+And basically the Prophet ﷺ says is told
+
+119
+00:05:44,480 --> 00:05:46,930
+in response to all of their criticisms,
+
+120
+00:05:46,930 --> 00:05:51,620
+all you need to do is:
+وَسَبِّحْ بِحَمْدِ رَبِّكَ قَبْلَ طُلُوعِ الشَّمْسِ وَقَبْلَ الْغُرُوبِ
+
+121
+00:05:51,630 --> 00:05:54,140
+You just continue to declare Allāh's perfection.
+
+122
+00:05:53,950 --> 00:05:56,850
+You see how the opening of the sūra is completed
+
+123
+00:05:57,240 --> 00:06:00,030
+is responded to by the end of this sūra, right?
+
+124
+00:06:00,210 --> 00:06:02,250
+Let's go to the second discussion in this sūra.
+
+125
+00:06:03,240 --> 00:06:05,340
+Allāh switches the subject to, okay, fine
+
+126
+00:06:05,340 --> 00:06:07,210
+you're skeptical about Resurrection,
+
+127
+00:06:07,220 --> 00:06:11,400
+but have you looked at the world around you with the eyes of faith?
+
+128
+00:06:11,474 --> 00:06:16,800
+أَفَلَمْ يَنْظُرُوا إِلَى السَّمَاءِ فَوْقَهُمْ كَيْفَ بَنَيْنَاهَا وَزَيَّنَّاهَا وَمَا لَهَا مِنْ فُرُوجٍ
+
+129
+00:06:16,800 --> 00:06:19,460
+Essentially, haven't they seen the perfection
+
+130
+00:06:19,460 --> 00:06:20,720
+of the sky how it's been built,
+
+131
+00:06:20,720 --> 00:06:23,550
+how it's been beautified, how it's got no blemishes in it.
+
+132
+00:06:23,640 --> 00:06:28,904
+وَالأَرْضَ مَدَدْنَاهَا وَأَلْقَيْنَا فِيهَا رَوَاسِيَ وَأَنْبَتْنَا فِيهَا مِنْ كُلِّ زَوْجٍ بَهِيجٍ
+
+133
+00:06:28,914 --> 00:06:32,640
+The earth that's been stretched out, the
+mountains that have been placed in it,
+
+134
+00:06:32,650 --> 00:06:35,910
+the sprouting of all kinds of colorful pairs of
+
+135
+00:06:35,910 --> 00:06:38,350
+fruits and vegetations that come out of the earth.
+
+136
+00:06:38,431 --> 00:06:40,800
+تَبْصِرَةً
+And all of that is so you can take a good look,
+
+137
+00:06:40,810 --> 00:06:42,511
+وَذِكْرَى لِكُلِّ عَبْدٍ مُنِيبٍ
+
+138
+00:06:42,490 --> 00:06:44,850
+and as a Reminder--how can it be a reminder?
+
+139
+00:06:45,030 --> 00:06:47,170
+For a slave that is coming back to Allāh,
+
+140
+00:06:47,190 --> 00:06:49,510
+whose heart is coming back to Allāh? How is it coming?
+
+141
+00:06:49,520 --> 00:06:51,449
+How should it bring you back?
+
+142
+00:06:51,509 --> 00:06:55,959
+وَنَزَّلْنَا مِنْ السَّمَاءِ مَاءً مُبَارَكًا فَأَنْبَتْنَا بِهِ جَنَّاتٍ وَحَبَّ الْحَصِيدِ
+
+143
+00:06:56,055 --> 00:07:00,999
+وَالنَّخْلَ بَاسِقَاتٍ لَهَا طَلْعٌ نَضِيدٌ
+رِزْقًا لِلْعِبَادِ
+
+144
+00:07:01,040 --> 00:07:05,290
+That We sent from the sky blessed water from the sky, by means
+
+145
+00:07:05,300 --> 00:07:10,110
+of which gardens come out, crop comes out, palm trees that are outstretched,
+
+146
+00:07:10,110 --> 00:07:11,530
+you know, uh,
+
+147
+00:07:11,540 --> 00:07:16,690
+branches that extend. All of this is a provision for servants.
+
+148
+00:07:16,700 --> 00:07:19,655
+And then He says:
+وَأَحْيَيْنَا بِهِ بَلْدَةً مَيْتًا
+
+149
+00:07:19,670 --> 00:07:20,605
+And by means of that water
+
+150
+00:07:20,640 --> 00:07:23,030
+We give a dead land life again.
+
+151
+00:07:23,040 --> 00:07:27,127
+And then He answers basically the first passage saying:
+كَذَلِكَ الْخُرُوجُ
+
+152
+00:07:27,240 --> 00:07:30,177
+That's exactly how Resurrection is going to happen.
+
+153
+00:07:30,740 --> 00:07:32,500
+Observe reality around you.
+
+154
+00:07:32,500 --> 00:07:35,240
+Observe these creations of the sky and the earth.
+
+155
+00:07:35,250 --> 00:07:38,150
+And remind yourself that is how Resurrection will happen.
+
+156
+00:07:38,740 --> 00:07:40,630
+But then Allāh addresses that
+
+157
+00:07:40,630 --> 00:07:43,220
+maybe you-because they're so stubborn and so obnoxious
+
+158
+00:07:43,220 --> 00:07:45,360
+they say, well, Allāh created a lot, He must be tired.
+
+159
+00:07:46,140 --> 00:07:47,460
+So He's not going to create a second time.
+
+160
+00:07:48,540 --> 00:07:53,290
+And so Allāh responds to that in the second last, which is just summarized in one āya,
+
+161
+00:07:53,550 --> 00:07:56,382
+وَلَقَدْ خَلَقْنَا السَّمَاوَاتِ وَالأَرْضَ وَمَا بَيْنَهُمَا
+
+162
+00:07:57,262 --> 00:08:00,740
+Doesn't that cover a summary of everything that I just explained to you?
+
+163
+00:08:00,750 --> 00:08:03,060
+We created the skies, the earth, and whatever is between them.
+
+164
+00:08:03,640 --> 00:08:05,600
+And then He says, and the first time I did it:
+
+165
+00:08:05,600 --> 00:08:08,324
+فِي سِتَّةِ أَيَّامٍ وَمَا مَسَّنَا مِنْ لُغُوبٍ
+
+166
+00:08:08,350 --> 00:08:11,774
+And We did it in six days and it did not hit Us with exhaustion.
+
+167
+00:08:11,990 --> 00:08:14,760
+I'm not too tired to bring you back again.
+
+168
+00:08:15,740 --> 00:08:16,760
+That will happen.
+
+169
+00:08:17,540 --> 00:08:20,170
+The second passage, corresponding to the second last.
+
+170
+00:08:20,370 --> 00:08:22,360
+You find then a switch in the sūra.
+
+171
+00:08:22,740 --> 00:08:27,050
+كَذَّبَتْ قَبْلَهُمْ قَوْمُ نُوحٍ وَأَصْحَابُ الرَّسِّ وَثَمُودُ
+
+172
+00:08:27,040 --> 00:08:29,890
+وَعَادٌ وَفِرْعَوْنُ وَإِخْوَانُ لُوطٍ
+
+173
+00:08:29,870 --> 00:08:31,760
+وَأَصْحَابُ الأَيْكَةِ وَقَوْمُ تُبَّعٍ
+
+174
+00:08:31,740 --> 00:08:33,609
+What are these?
+
+175
+00:08:34,210 --> 00:08:37,870
+Previously destroyed nations, all of whom denied messengers.
+
+176
+00:08:37,909 --> 00:08:40,679
+People of Nụḥ, Aṣḥāb al-Rass,
+
+177
+00:08:40,679 --> 00:08:42,750
+The People of Rass, Thamūd, 'Ād, Fir'awn,
+
+178
+00:08:42,750 --> 00:08:44,950
+the Brethren of Lūṭ, the people of 'Īka,
+
+179
+00:08:44,960 --> 00:08:46,720
+the Nation of Tubba'. All of them.
+
+180
+00:08:46,730 --> 00:08:49,440
+Allāh says, have I been exhausted by the creation the first time?
+
+181
+00:08:49,440 --> 00:08:50,360
+You're just confused.
+
+182
+00:08:50,360 --> 00:08:52,250
+And I know what whispers come to you.
+
+183
+00:08:52,440 --> 00:08:54,627
+وَنَعْلَمُ مَا تُوَسْوِسُ بِهِ نَفْسُهُ
+
+184
+00:08:54,640 --> 00:08:58,467
+We know what whispers hit the human being's inner self.
+
+185
+00:08:58,440 --> 00:09:00,960
+But I'm closer to you than your vein, than your jugular vein.
+
+186
+00:09:01,640 --> 00:09:03,160
+When He says this all
+
+187
+00:09:03,840 --> 00:09:06,750
+it is contrasted directly in the third last passage.
+
+188
+00:09:06,750 --> 00:09:10,077
+Allāh says:
+وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ
+
+189
+00:09:10,077 --> 00:09:12,260
+How many nations in the past did We destroy?
+
+190
+00:09:12,850 --> 00:09:13,870
+What is that echoing?
+
+191
+00:09:14,540 --> 00:09:16,760
+All the nations that were listed that were destroyed.
+
+192
+00:09:17,210 --> 00:09:22,560
+هُمْ أَشَدُّ مِنْهُمْ بَطْشًا فَنَقَّبُوا فِي الْبِلاَدِ هَلْ مِنْ مَحِيصٍ
+
+193
+00:09:22,620 --> 00:09:25,670
+They were much more powerful than the Quraysh are.
+
+194
+00:09:25,670 --> 00:09:27,560
+And they made much more of an imprint in the land.
+
+195
+00:09:27,570 --> 00:09:29,140
+But do you find anything left of them?
+
+196
+00:09:29,150 --> 00:09:34,092
+And then He says, I love this,
+إِنَّ فِي ذَلِكَ لَذِكْرَى لِمَنْ كَانَ لَهُ قَلْبٌ
+
+197
+00:09:34,540 --> 00:09:38,050
+There's a powerful reminder in all of this for anyone who possesses a heart.
+
+198
+00:09:39,140 --> 00:09:42,650
+On the flip side, we were told there is a spiritual crisis inside us.
+
+199
+00:09:42,660 --> 00:09:45,150
+There's waswasa happening inside the nafs.
+
+200
+00:09:45,440 --> 00:09:47,740
+Now we're told: yes, there is a nafs,
+
+201
+00:09:47,740 --> 00:09:50,610
+there is an inner self, and there's constant whispers happening,
+
+202
+00:09:50,610 --> 00:09:52,230
+pulling you into the wrong direction.
+
+203
+00:09:52,240 --> 00:09:56,650
+But you have also been empowered with a heart that is capable of reminder,
+
+204
+00:09:56,650 --> 00:10:00,180
+that's very powerful that can pull you away from all of that waswasa.
+
+205
+00:10:00,190 --> 00:10:04,060
+So the response to that waswasa is:
+لِمَنْ كَانَ لَهُ قَلْبٌ
+
+206
+00:10:04,350 --> 00:10:08,873
+And how will you enforce that heart?
+وَ أَلْقَى السَّمْعَ وَهُوَ شَهِيدٌ
+
+207
+00:10:09,040 --> 00:10:13,060
+Who drops an ear, who listens carefully and as a result, what he witnesses changes.
+
+208
+00:10:13,740 --> 00:10:14,700
+The view changes.
+
+209
+00:10:14,710 --> 00:10:17,840
+You see the parallel between that section and this section,
+
+210
+00:10:17,850 --> 00:10:20,340
+previous nations and then previous nations again.
+
+211
+00:10:20,350 --> 00:10:23,090
+Then you come to the center of the sūra.
+
+212
+00:10:23,100 --> 00:10:26,660
+The center of the sūra is its own architecture. It's it's own design.
+
+213
+00:10:27,140 --> 00:10:29,870
+So it's like the three at the top and the three at the bottom.
+
+214
+00:10:29,870 --> 00:10:33,780
+I've given you like an A - B - C, and I've given you a C -B  and A.
+
+215
+00:10:33,790 --> 00:10:37,760
+That's the outer rim of the sūra. Now we're inside the heart of the sūra.
+
+216
+00:10:38,140 --> 00:10:40,660
+Inside the heart of the sūra, there are two passages.
+
+217
+00:10:41,340 --> 00:10:45,450
+One passage takes you from death all the way to Judgment Day.
+
+218
+00:10:46,040 --> 00:10:47,440
+That's one passage.
+
+219
+00:10:47,450 --> 00:10:53,130
+The second passage takes you-- contrasts the life in Hell with the life in Heaven.
+
+220
+00:10:53,140 --> 00:10:58,270
+So death to Judgment Day is one scene, and then Hell and Heaven is the second scene.
+
+221
+00:10:58,290 --> 00:11:01,170
+So I'm going to describe a little bit of the first scene to you,
+
+222
+00:11:02,340 --> 00:11:04,330
+and I'll walk you through its translation.
+
+223
+00:11:04,340 --> 00:11:06,407
+Just elements of its translation.
+
+224
+00:11:06,407 --> 00:11:10,747
+إِذْ يَتَلَقَّى الْمُتَلَقِّيَانِ عَنْ الْيَمِينِ وَعَنْ الشِّمَالِ قَعِيدٌ
+
+225
+00:11:10,777 --> 00:11:14,107
+مَا يَلْفِظُ مِنْ قَوْلٍ إِلاَّ لَدَيْهِ رَقِيبٌ عَتِيدٌ
+
+226
+00:11:14,157 --> 00:11:20,627
+When the two meet. The two that were on either side of you meet. And not a word has ever gone by--
+
+227
+00:11:20,680 --> 00:11:23,990
+you've never said a single word, except that it hasn't been watched over, recorded.
+
+228
+00:11:24,740 --> 00:11:25,990
+All of it's been captured.
+
+229
+00:11:26,180 --> 00:11:30,308
+وَجَاءَتْ سَكْرَةُ الْمَوْتِ بِالْحَقِّ ذَلِكَ مَا كُنْتَ مِنْهُ تَحِيدُ
+
+230
+00:11:30,370 --> 00:11:34,348
+The pangs of death, the drunken state of death, finally hit.
+
+231
+00:11:34,540 --> 00:11:38,630
+And this is the thing you've been avoiding all along. See, I told you these records,
+
+232
+00:11:38,640 --> 00:11:39,720
+when are they meeting?
+
+233
+00:11:39,730 --> 00:11:43,290
+When the person is about to, or when they're hitting death.
+
+234
+00:11:43,280 --> 00:11:44,226
+وَنُفِخَ فِي الصُّورِ
+
+235
+00:11:44,236 --> 00:11:47,910
+And in the blink of an eye, the Horn is blown into.
+
+236
+00:11:48,000 --> 00:11:51,590
+The Horn is blown into. What is this talking about? The Day of Judgment.
+
+237
+00:11:51,743 --> 00:11:52,620
+ذَلِكَ يَوْمُ الْوَعِيدِ
+
+238
+00:11:52,780 --> 00:11:54,660
+That is the day that you were threatened with.
+
+239
+00:11:55,423 --> 00:11:58,066
+وَجَاءَتْ كُلُّ نَفْسٍ مَعَهَا سَائِقٌ وَشَهِيدٌ
+
+240
+00:11:58,066 --> 00:11:59,930
+And every person is going to have with them
+
+241
+00:11:59,930 --> 00:12:02,420
+someone who pushes them forward, and a witness with them.
+
+242
+00:12:02,430 --> 00:12:05,322
+Details. This is the
+dars on Sūrat al-Qāf, listen to it.
+
+243
+00:12:05,430 --> 00:12:08,050
+لَقَدْ كُنْتَ فِي غَفْلَةٍ مِنْ هَذَا
+
+244
+00:12:08,050 --> 00:12:10,720
+You used to be completely oblivious about all of this.
+
+245
+00:12:10,730 --> 00:12:13,389
+You had no clue any of this was coming.
+
+246
+00:12:13,389 --> 00:12:14,859
+فَكَشَفْنَا عَنْكَ غِطَاءَكَ
+
+247
+00:12:14,840 --> 00:12:19,769
+So We've removed your covers for you. We've uncovered the reality for you.
+
+248
+00:12:19,779 --> 00:12:21,639
+فَبَصَرُكَ الْيَوْمَ حَدِيدٌ
+
+249
+00:12:21,649 --> 00:12:25,760
+Your vision today is ironclad. It's-- you see crystal clear now.
+
+250
+00:12:26,340 --> 00:12:27,520
+وَقَالَ قَرِينُهُ
+
+251
+00:12:27,530 --> 00:12:30,459
+And the devil that accompanied him his whole life says:
+
+252
+00:12:30,469 --> 00:12:32,029
+هَذَا مَا لَدَيَّ عَتِيدٌ
+
+253
+00:12:32,030 --> 00:12:34,300
+This is the one I brought with me, this bad one.
+
+254
+00:12:34,329 --> 00:12:35,675
+أَلْقِيَا فِي جَهَنَّمَ
+
+255
+00:12:35,655 --> 00:12:36,805
+Throw in Hell
+
+256
+00:12:36,819 --> 00:12:37,815
+كُلَّ كَفَّارٍ عَنِيدٍ
+
+257
+00:12:37,800 --> 00:12:39,935
+every ingrate, every stubborn one
+
+258
+00:12:39,935 --> 00:12:41,105
+مَنَّاعٍ لِلْخَيْرِ
+
+259
+00:12:41,100 --> 00:12:42,090
+throw into Hell
+
+260
+00:12:42,070 --> 00:12:43,906
+everyone that prevented good.
+
+261
+00:12:43,886 --> 00:12:44,826
+مُعْتَدٍ مُرِيبٍ
+
+262
+00:12:44,840 --> 00:12:46,400
+The one who was crossing the lines and
+
+263
+00:12:46,400 --> 00:12:49,020
+constantly making even others doubtful about the faith.
+
+264
+00:12:49,030 --> 00:12:50,780
+الَّذِي جَعَلَ مَعَ اللَّهِ إِلَهًا آخَرَ
+
+265
+00:12:50,780 --> 00:12:54,189
+Who put other gods besides Allāh, next to Allāh.
+
+266
+00:12:54,189 --> 00:12:55,849
+فَأَلْقِيَاهُ فِي الْعَذَابِ الشَّدِيدِ
+
+267
+00:12:55,870 --> 00:12:57,820
+Throw him into painful punishment.
+
+268
+00:12:57,830 --> 00:13:02,010
+And this devil who says, 'Look at all this bad stuff he did, Ya Allāh throw him in Hell.'
+
+269
+00:13:02,020 --> 00:13:04,760
+Then he says:
+قَالَ قَرِينُهُ رَبَّنَا مَا أَطْغَيْتُهُ
+
+270
+00:13:05,240 --> 00:13:10,020
+He says, 'By the way, Master, I didn't make him do it, okay?'
+
+271
+00:13:10,050 --> 00:13:12,370
+وَلَكِنْ كَانَ فِي ضَلاَلٍ بَعِيدٍ
+
+272
+00:13:12,350 --> 00:13:14,310
+'He was lost on his own.'
+
+273
+00:13:14,340 --> 00:13:19,880
+I mean, this minion of Shayṭān has been working on getting you into Hell all this time.
+
+274
+00:13:19,890 --> 00:13:23,110
+So when he comes before Allah, he says, 'I need to finish my mission,
+
+275
+00:13:23,130 --> 00:13:26,470
+and it's gonna be, I got him to do a lot of stuff, but no, no, not me!'
+
+276
+00:13:26,840 --> 00:13:27,560
+'He did it.'
+
+277
+00:13:28,540 --> 00:13:31,107
+Allah says:
+قَالَ لاَ تَخْتَصِمُوا لَدَيَّ
+
+278
+00:13:31,197 --> 00:13:32,540
+Don't argue before Me.
+
+279
+00:13:32,640 --> 00:13:34,189
+وَقَدْ قَدَّمْتُ إِلَيْكُمْ بِالْوَعِيدِ
+
+280
+00:13:34,210 --> 00:13:38,160
+And the Warning has come to all of you. Meaning you and your devil were all warned,
+
+281
+00:13:38,840 --> 00:13:40,429
+مَا يُبَدَّلُ الْقَوْلُ لَدَيَّ
+
+282
+00:13:40,459 --> 00:13:43,740
+The word will not be changed in My presence.
+
+283
+00:13:43,740 --> 00:13:46,163
+There is not going to be a different verdict now.
+
+284
+00:13:46,193 --> 00:13:47,765
+وَمَا أَنَا بِظَلاَّمٍ لِلْعَبِيدِ
+
+285
+00:13:47,775 --> 00:13:49,550
+And I'm not going to be oppressive to slaves.
+
+286
+00:13:50,040 --> 00:13:53,460
+I'm not gonna do anybody wrong. Okay, this is passage--
+
+287
+00:13:53,470 --> 00:13:57,060
+mini-passage one in the center of the sūra. I want you to go back.
+
+288
+00:13:58,240 --> 00:14:01,690
+The first item we studied was "not a word will go unrecorded".
+
+289
+00:14:01,850 --> 00:14:02,650
+Do you remember that?
+
+290
+00:14:03,830 --> 00:14:05,860
+And it is "every word is being watched".
+
+291
+00:14:05,880 --> 00:14:10,380
+And the last āya of this passage says the word will not be changed.
+
+292
+00:14:10,380 --> 00:14:13,371
+My word has come to pass. قول قول
+
+293
+00:14:13,371 --> 00:14:16,911
+مَا يُبَدَّلُ الْقَوْلُ
+مَا يَلْفِظُ مِنْ قَوْلٍ
+
+294
+00:14:17,040 --> 00:14:21,368
+Okay? So where it starts is where it ends. Then Allah says,
+
+295
+00:14:21,368 --> 00:14:26,938
+The drunken state of death came. This is what you were running away from.
+
+296
+00:14:27,450 --> 00:14:30,360
+The Horn will be blown into.
+
+297
+00:14:30,910 --> 00:14:32,160
+That's what you were warned about.
+
+298
+00:14:33,140 --> 00:14:36,560
+You've been heedless about all of this because you were warned and you didn't care.
+
+299
+00:14:37,040 --> 00:14:41,730
+Now the the covers have been removed, and now you can see
+
+300
+00:14:41,950 --> 00:14:45,733
+all of this was what? You ignored the warnings, you ignored the warnings,
+
+301
+00:14:45,790 --> 00:14:47,433
+you ignored the warnings.
+
+302
+00:14:47,550 --> 00:14:50,710
+And on the flip side, the second last--that was the second item--
+
+303
+00:14:50,710 --> 00:14:55,073
+the second last item is don't argue in front of Me. The Warning already came.
+
+304
+00:14:55,750 --> 00:15:00,380
+The Warning is in such detail. And by the second last side, the Warning has already came.
+
+305
+00:15:00,380 --> 00:15:03,340
+And in the middle are the two statements of the qarīn.
+
+306
+00:15:03,350 --> 00:15:06,470
+The qarīn, on the one hand, wants you to go to Hell, and on the other hand,
+
+307
+00:15:06,470 --> 00:15:07,650
+doesn't want to go to Hell himself.
+
+308
+00:15:08,540 --> 00:15:11,060
+So the reality of Shayṭān, who is gonna drop you on Judgment Day.
+
+309
+00:15:11,740 --> 00:15:12,250
+Okay?
+
+310
+00:15:12,950 --> 00:15:17,270
+That would be the symmetrical structure of part one of the middle of Sūrat Qāf.
+
+311
+00:15:17,640 --> 00:15:19,050
+Then you come to part two.
+
+312
+00:15:20,350 --> 00:15:21,410
+In part two.
+
+313
+00:15:21,510 --> 00:15:25,413
+يَوْمَ نَقُولُ لِجَهَنَّمَ هَلْ امْتَلَأْتِ
+
+314
+00:15:25,443 --> 00:15:29,413
+We say on that day to hell, 'Are you filled?' And it responds.
+
+315
+00:15:29,440 --> 00:15:30,240
+هَلْ مِنْ مَزِيدٍ
+
+316
+00:15:30,340 --> 00:15:31,954
+'Is there anymore?'
+
+317
+00:15:32,040 --> 00:15:36,500
+And that one statement was enough to not have Allāh describe Hell any further.
+
+318
+00:15:37,740 --> 00:15:40,530
+There is no further need for an explanation of
+
+319
+00:15:40,530 --> 00:15:42,700
+the Fire, of the torture, of the punishment,
+
+320
+00:15:42,710 --> 00:15:46,470
+because that statement is shocking and terrifying all on its own.
+
+321
+00:15:46,840 --> 00:15:49,960
+So the rest of this passage only deals with Jannah.
+
+322
+00:15:50,640 --> 00:15:53,760
+وَأُزْلِفَتْ الْجَنَّةُ لِلْمُتَّقِينَ غَيْرَ بَعِيدٍ
+
+323
+00:15:54,440 --> 00:15:59,040
+Heaven will be brought close for people of taqwā; it's not far away.
+
+324
+00:15:59,060 --> 00:16:00,501
+هَذَا مَا تُوعَدُونَ
+
+325
+00:16:00,551 --> 00:16:02,312
+And (غير بعيد) is actually a play on words.
+
+326
+00:16:02,370 --> 00:16:05,613
+It's actually from:
+ذَلِكَ رَجْعٌ بَعِيدٌ
+
+327
+00:16:05,653 --> 00:16:08,032
+And Allāh says for (متقين) don't worry, it's (متقين).
+
+328
+00:16:08,042 --> 00:16:10,998
+هَذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٍ
+
+329
+00:16:11,040 --> 00:16:12,910
+This is what you've been promised for everyone who
+
+330
+00:16:12,910 --> 00:16:15,490
+keeps coming back to Allāh, safeguarding himself.
+
+331
+00:16:15,500 --> 00:16:18,360
+The one who was fearful of al-Raḥmān when he couldn't even see Him
+
+332
+00:16:18,370 --> 00:16:21,164
+and came with a heart that keeps coming back.
+
+333
+00:16:21,184 --> 00:16:24,980
+تَبْصِرَةً وَذِكْرَى لِكُلِّ عَبْدٍ مُنِيبٍ
+
+334
+00:16:25,100 --> 00:16:27,400
+And now,
+وَجَاءَ بِقَلْبٍ مُنِيبٍ
+
+335
+00:16:27,440 --> 00:16:30,470
+ادْخُلُوهَا بِسَلاَمٍ
+Enter safely
+
+336
+00:16:30,480 --> 00:16:33,260
+ذَلِكَ يَوْمُ الْخُلُودِ
+That's the day of living forever.
+
+337
+00:16:33,340 --> 00:16:39,028
+لَهُمْ مَا يَشَاءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ
+They have whatever they want in it and We have even more in store for them.
+
+338
+00:16:39,040 --> 00:16:42,480
+So this brief passage, which contrasts simply Heaven and Hell.
+
+339
+00:16:42,490 --> 00:16:44,900
+The interesting thing about it is the first of these āyāt said:
+
+340
+00:16:45,030 --> 00:16:48,600
+وَتَقُولُ هَلْ مِنْ مَزِيدٍ
+about Hell
+
+341
+00:16:48,600 --> 00:16:50,511
+Hell says: is there anymore?
+
+342
+00:16:50,531 --> 00:16:53,260
+And about Heaven, Allāh says they'll have everything they want and We've got more.
+
+343
+00:16:53,340 --> 00:16:56,970
+The first āya ends with (مزيد); and the last of these āyāt also ends with (مزيد).
+
+344
+00:16:57,340 --> 00:16:59,510
+So the verbal link is there, you know,
+
+345
+00:16:59,510 --> 00:17:01,890
+creating a kind of symmetry between those two passages.
+
+346
+00:17:01,900 --> 00:17:06,760
+So this is kind of an overall structure of Sūrat Qāf. Was that clear to everybody?
+
